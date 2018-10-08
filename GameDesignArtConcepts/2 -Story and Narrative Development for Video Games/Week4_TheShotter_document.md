@@ -52,7 +52,7 @@ Once defeated, Jane reiterates her feelings for Jake and her conviction that soc
 
 ##  Gameplay Flowchart 
 
-[Flow chart](https://github.com/CN3ves/Games/blob/master/Coursera/GameDesignArtConcepts/2%20-Story%20and%20Narrative%20Development%20for%20Video%20Games/FlowChart.pdf)
+[Flow chart](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/2%20-Story%20and%20Narrative%20Development%20for%20Video%20Games/FlowChart.pdf)
 
 
 ## Changes from the original 
