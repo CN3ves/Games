@@ -15,11 +15,27 @@ To accompany your drawings, please also include a short description of your char
 ## Submission
 
 ### Title
-
-
+Vampire hunter concept
 
 ### Provide a short written description of your character. 
+My character is a conceptual character and does not have a name at the moment. He joined a militant religious order that seeks to track and hunt down the dark creatures that roam freely in the world. It was as a member of this religious order that my character learned his skills and became a specialized vampire hunter. As such, his motivation is the safety of the people by protecting them from these dark creatures. 
 
 ### Upload all three character designs as a single image. 
+[Character design](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/week1_concept.pdf)
+
+title: Vampire hunter
+caption: 
+    First page: all three designs
+    Second page: First design (head only)
+    Third page: Second design (low density)
+    Fourth page: Third design (higher density)
+
 
 ### Describe the different approaches you're attempting in each of your three designs
+I am not a designer and my drawing skills are not professional. Even so, I decided to draw some character sketches as using software is probably worse :p
+
+For my first design, I considered a game situation where little character detail would be required. For example, we can think of a top-view 2D map, where the character "pin" moves about. Without the need for complex detail, this "pin" can be simple an "out-of-proportion" head moving around the map. This disproportion allows for different expressions to be made clear. For example, random encounters can be indicated by an in-game change of expression (bottom head). In this design, I also explored the effect of the hat "pose". On top, we can see that a more formal and less "cool" effect is obtained with a straight sitting hat (so much so that it called for a monocle!).
+
+For my second design, I explored the effect of character proportion. By having a complete body, I can add some additional props (sword and shield) which communicates clearly that the character is some sort of fighter. Unlike the previous design, this full-bodied, proportional design allows the character to be used in additional game situations, such as combat. Thus different body proportions can indeed be associated with different in-game roles (big head: map navigation; full body: combat/action).
+
+For my last design, I explored the effects of density in conveying the background/story of the character. I've changed the clothing to a more priestly robe, added a cross necklace, a (holy) book and a belt with a wooden stake and some garlic (identifying these props from my drawings may not be an easy task!). By increasing the detail of the character design with the addition of props (increasing the density), it is easier to communicate his membership to a religious order (robe, cross, book), his potential relationship with vampires (wooden stake, garlic) and, being armed (sword), deduce his role as a vampire hunter.
