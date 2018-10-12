@@ -496,3 +496,30 @@ Until you get the right line that you want.
 
 Since it's floating, I'm going to make a little shadow
 That is what we call good enough.
+
+
+### Homework
+I'd like you to try designing two characters for
+your game.But here is the challenge, I'd like these two characters to each be clearly
+different in their design, like the Explorer and aliens from Andy.
+
+How can you make them different?
+
+Remember what Andy said about visual language, how the Explorer had softer,
+rounder shapes, and the aliens had harsher, sharper shapes?
+These qualities set the two designs apart and would make it easier for
+a player to understand them in a game.
+  * So you could try out a sharper design on one character and
+a rounder design on another character.
+  * You could try a more mechanical look for one character and a more organic look for
+another character.
+  * You could try a rustic approach for one and a more modern approach for
+one of your other characters.
+
+The reason is that as a designer, it's important to always try
+different designs and different approaches while you're working.
+So, trying to make two characters different
+is a good way to make yourselves try new things.
+You might also want to try Andy's approach of drawing many sketches for
+your character and then combining the pieces you like into one design by
+cutting or tracing your drawings
