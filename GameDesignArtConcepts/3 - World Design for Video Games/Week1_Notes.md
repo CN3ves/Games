@@ -180,7 +180,20 @@ Here, all the game play is eliminated so you can focus on
 the worlds themselves—and they are stunning to watch.
 
 
-### Example 
+## Assigment (not submitted)
+
+### description
+Knowing what you like is a good thing. The point of this reflective assignment is to isolate and analyze the aspects of a game world that keep you playing and interested in the game.
+
+To begin, pick one game (not a game series–just one game!) you feel strongly about. Use the title of the game as your project title. To help your peers, please include a reference URL to your game–a Wiki, an image, or the game itself.
+
+Then, please answer the following three questions:
+
+   1. Describe your game. Why do you find the game compelling?
+   2. What defines your world? Tell your peers what makes your game world unique.
+   3. How does the environment of the game affect the game play?
+
+### Example
 Take a look at my response about [Snatcher](https://en.wikipedia.org/wiki/Snatcher)
 
 **Describe your game. Why do you find the game compelling?**
