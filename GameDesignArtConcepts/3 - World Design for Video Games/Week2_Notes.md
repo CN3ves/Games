@@ -323,8 +323,27 @@ If most of your research is digital:
   * Use Evernote for both text and visual.
   * Or, software used to generate business processes or site maps can be used with some success for your own game world maps. Try free, cloud-based options like Coggle or Gliffy.
 
-## Example
+## Assignement not submitted)
 
+### description
+In this assignment you are asked to start creating a visual sketch of a world you want to create, focusing on style, mood and ambience only. The idea here is visual research: don't create from the void; instead, look around you for inspiration.
+
+For the purposes of this assignment you are asked to upload a selection of visual sources that define the genre and context of your world. Find visual sources that help define your world’s:
+
+  * time period
+  * location
+  * climate
+  * landscape
+  * lighting
+  * the context, or circumstances that have created this world
+
+Submit a minimum of 4 images, but no more than 10. You are required to include visuals from at least two different sources.
+
+For each image please submit a caption that describes specifically how the image connects to your vision of the world, or why you have chosen it. To help your peers, write any specific details in the image you want to highlight.
+
+You are also asked to write a short paragraph describing your vision for your world, and how the visual elements fit together or connect. This may be very loose or intuitive at this point, but that's okay! Note: to help your peers, this paragraph is uploaded first. 
+
+### Example
 Brimstone Cove is conceptualized as a Pixel-art sidescroller adventure game. It is narratively driven and visually minimal. Influences range from LucasArts' classic adventure games from the 90s, such as Maniac Mansion and Days of the Tentacle, to modern games like Silent Hill, Kentucky Route Zero and a tiny bit of Sword and Sorcery. A major inspiration also comes from the Japanese videogame series Mother (EarthBound).
 
 The visual style and writing is a take on classic American horror and atmospheric tales, from Edgar Allen Poe to Stephen King to Ray Bradbury. There's definitely Lovecraftian inspiration at its core. John Carpenter and George Romero also have influenced this project, as well as Joss Whedon's Buffy the Vampire Slayer and David Lynch's Twin Peaks. Intentions are to use tropes in a "classic" set-up and try to slightly alter what we know or expect. Although based on horror literature it is not a horror game. Brimstone Cove is colorful while also quite mellow and nostalgic. The story is filled with humor, comedy and cheerful moments. This coming-to-age tale is filled with foul demons, an East Coast vibe, anachronistic TV references, love, and occasionally: pizza.
