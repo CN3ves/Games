@@ -2,161 +2,153 @@
 
 ### Don't create from the void
 
-Welcome to Week Two.
- So how do we begin creating a video game world?
- Well, first of all, we will have to explore other medias.
- Looking into films, books, paintings, art, movement, your own backyard maybe,
- and you think that appeals to you that triggers something in your brain.
- It is really fundamental to look at other art practices
- when you start creating video games.
- You don't create from a void, obviously.
- Video games share many aspects of other arts.
- They offer a sythesis of multiple practices and they benefit from their
- various efforts.
- Although they quite dramatically different from cinema, literature, theater, comic books,
- they are drawing from all these practices.
- Then, artists always look at other artists.
- Fumito Ueda, for example, who is Japanese game designer, creator of Ico
- and Shadow of Colossus, started as a painter. He studied in a Japanese art school, and
- was really inspired by an Italian painter who was painting in between the 19th and
- 20th century, a Neo-Baroque surrealist artist, Giorgio de Chirico.
- If you look at the European and Japanese cover for Ico and
- some of de Chirico paintings, you will see immediately that the cover for
- Ico is a direct homage to de Chirico.
- And even though de Chirico is really influential for Fumito Ueda,
- Fumito Ueda also developed his own visual aesthetic, his own visual world,
- ambiance, and atmosphere.
- There's always constant appropriation and legacy,
- this artistic legacy, in term of video game content.
- Look at the ritual wave.
- The ritual look.
- The pixel art in the lo-fi.
- All these video games that are now contemporary - created with new video game engines - are
- now modern games, but with old school visual style, that we have actually
- defined because of limitation that we have now using visual purposes.
- Well, all this constant reappropriation in video games
- exists too in the video game format itself.
- Visual artists work in a broad variety of ways.
- Someone like Moebius, for example, a French comic book artist, who's a really
- famous comic book artist and painter, also works in the movie industry and
- became really influential in some really famous Hollywood movies in the 80s,
- as well as working in video games.
- So if you're an artist, and you look at other practices,
- it's also the case when you work, let's say as a comic book artist.
- You might also want to expand that and bring it to video game.
- And obviously the way you do it might be quite tricky.
- And that's where we're going.
- Another thing too that may be really important when you start defining your video game world
- You can look at dance, and other physical art.
- Sports, the way you move.
- Think about the sound too, how the game will sound, not just the music.
- Think about how the world must sound like.
- Birds in the trees, wind in the meadow, swords clanging, rockets flying.
- Think about the ambiance, the atmospheric sounds when you're
- actually just not doing anything in the game at all.
- The world is still living and moving and advancing maybe.
- That's the thing.
- That's the importance of materials, too.
- Think of textures, consistency.
- And everything you touch as a play aspect, play object.
- That's really important to stress that play aspect.
- Think about everything you can play with outside video games.
- Look in a real world.
- Look at all the textures and materials that are surrounding you.
- Think of that game.
- A recent game.
- Tear Away.
- Tear Away is all about this paper world.
- Everything in the game seems made of paper, and for a good reason, it's because
- everything made in that game was done in paper, in real life concrete paper.
- The fact that the developers made this, it translates perfectly in the game.
- You can feel that playful aspect of playing with paper when you play the game.
- All the game play characteristics and content and
- visual aspects of the game are transparent in that matter.
- Look at things that have very mundane, repetitive practices around you.
- Look at what triggers attention in your surroundings.
- Again, play with everything.
- Shuffle objects, properties and functions.
- Change the qualities, that is what video game design is all about in the end.
- 
- ### Aesthetics & Gameplay
- 
- Now let's talk about aesthetic and gameplay.
- Two sides of the same coin, basically.
- Things that are going all the way together in video game design.
- So how do you make your gameplay and your aesthetic really complimentary?
- Well, when the world is gameplay itself, like in a recent game, Limbo.
- In Limbo, the whole world is in black and white, everything you see is really
- minimal, is really creepy, scary and terrifying. That's the purpose of it.
- You never really know if you're gonna get close to something,
- if it's not gonna be the leg of a giant spider, who will just kill you right away.
- It's tricky because it tricks your eyes and tricks you in terms of gameplay.
- Well then, you can also think about games where the world is color coded.
- Another example, like in Mirror's Edge.
- In Mirror's Edge you play in the first person and
- you do this sort of parkour on top of buildings.
- The aesthetic was praised at the time for it's really minimal, clear, and
- clean aesthetic.
- And, one thing in Mirror's Edge is that everything you could do,
- everything you knew you could interact with, at different color.
- Everything was becoming pure red and white.
- Something that is actually creating not only an interesting
- gameplay idea of trying to find your way, not by throwing giant arrows, but
- just by looking at the colors in the world.
- But also really distinct, a really unique aesthetic.
- Then again, if we think about Tear Away and
- the way it feels, the ways it looks, the paper properties in Tear Away.
- How you can use different papers, different texture and materials.
- And now you can try to emulate that and see that in the game.
- Video games are tactile.
- No matter how you think about it.
- Not only because you touch a screen.
- They're tactile because there's a feedback.
- You're to think about how you interact with the world.
- If you give the world a look where it's clay,
- wool, you have to think about how you can use these properties in the gameplay.
- If it's all in clay, will you be able to remodel, to change, and
- use this clay property?
- Same with wool.
- Is it gonna be soft?
- Are you gonna be able to unravel the world?
- And then, give a really distinct look to your game is really important.
- As important as giving it, a unique feel.
- It's the case with Katamari Damacy game by Keita Takahashi.
- A sculpture.
- In Katamari Damacy you're rolling this giant ball that is gathering,
- sticking with a lot of objects, items, people, houses, then planets.
- And this ball created by keeping and combining
- all these aspects and objects, is really happening, there's a feel to it.
- The way the controler is used, by pressing the analog sticks to forward -
- You would push this ball with your hands.
- also plays a really important part in Katamari Damacy and the way you feel,
- moving, rolling actually in that world.
- And if everything looks chaotic and seemingly really unordered, everything is
- actually really simple and really clear, really visually perfectly defined.
- 
- ### Clockworks
- 
- Now let's think about the inner mechanics of the world.
- What it’s like - all the gears, running around, running inside that world of yours?
- Think about the contrast, the oppositions.
- Is it going to be you against the world or the world against you?
- Is it going to be political?
- Is it going to be factions involved, two different armies,
- and what side are you going to be?
- Are you going to be able to see the side of the opposite, the enemy?
- A world lived through time, there's a state of affairs, conflicts.
- If it's a brand new world, untouched, are you going to break it?
- Are you going to change it in some way, in some intimate way?
- That is one of the burdens that you can find in a lot of contemporary games.
- Procedurally generated games, all built through algorithms and mathematics.
- When you start a game, it's a completely different game every time.
- Even though you think about games like that,
- there's layers of time and landmarks.
- You still need to have maybe places that may be the same through time.
- Ancient ruins take cultural legacy in the world,
- a world that is living through its legends and myth.
- You will have to find maybe points of interest.
+How do we begin creating a video game world?
+Well, first of all, we will have to explore other medias.
+Looking into films, books, paintings, art, movement, your own backyard maybe,
+and you think that appeals to you that triggers something in your brain.
+It is really fundamental to look at other art practices
+when you start creating video games.
+You don't create from a void, obviously.
+Video games share many aspects of other arts.
+They offer a sythesis of multiple practices and they benefit from their
+various efforts.
+Although they quite dramatically different from cinema, literature, theater, comic books,
+they are drawing from all these practices.
+
+Then, artists always look at other artists.
+Fumito Ueda, for example, who is Japanese game designer, creator of Ico
+and Shadow of Colossus, was really inspired by a Neo-Baroque surrealist artist, Giorgio de Chirico.
+And even though de Chirico is really influential for Fumito Ueda,
+Fumito Ueda also developed his own visual aesthetic, his own visual world,
+ambiance, and atmosphere.
+
+There's always constant appropriation and legacy,
+this artistic legacy, in term of video game content.
+
+All these video games that are now contemporary - created with new video game engines - are
+now modern games, but with old school visual style, that we have actually
+defined because of limitation that we have now using visual purposes.
+Well, all this constant reappropriation in video games
+exists too in the video game format itself.
+
+Visual artists work in a broad variety of ways.
+Someone like Moebius, for example, a French comic book artist, who's a really
+famous comic book artist and painter, also works in the movie industry and
+became really influential in some really famous Hollywood movies in the 80s,
+as well as working in video games.
+So if you're an artist, and you look at other practices,
+it's also the case when you work, let's say as a comic book artist.
+You might also want to expand that and bring it to video game.
+And obviously the way you do it might be quite tricky.
+And that's where we're going.
+
+Another thing too that may be really important when you start defining your video game world
+  * You can look at dance, and other physical art.Sports, the way you move.
+  * Think about the sound too, how the game will sound, not just the music. 
+  * Think about how the world must sound like.
+Birds in the trees, wind in the meadow, swords clanging, rockets flying.
+Think about the ambiance, the atmospheric sounds when you're
+actually just not doing anything in the game at all.
+The world is still living and moving and advancing maybe.
+  * Think of textures, consistency.
+And everything you touch as a play aspect, play object.
+That's really important to stress that play aspect.
+Think about everything you can play with outside video games.
+
+Think of that game.A recent game.
+Tear Away is all about this paper world.
+Everything in the game seems made of paper, and for a good reason, it's because
+everything made in that game was done in paper, in real life concrete paper.
+The fact that the developers made this, it translates perfectly in the game.
+You can feel that playful aspect of playing with paper when you play the game.
+All the game play characteristics and content and
+visual aspects of the game are transparent in that matter.
+
+Look at things that have very mundane, repetitive practices around you.
+Look at what triggers attention in your surroundings.
+Again, play with everything.
+Shuffle objects, properties and functions.
+Change the qualities, that is what video game design is all about in the end.
+
+### Aesthetics & Gameplay
+
+Now let's talk about aesthetic and gameplay.
+Two sides of the same coin, basically.
+Things that are going all the way together in video game design.
+
+So how do you make your gameplay and your aesthetic really complimentary?
+Well, when the world is gameplay itself, like in Limbo.
+In Limbo, the whole world is in black and white, everything you see is really
+minimal, is really creepy, scary and terrifying. That's the purpose of it.
+You never really know if you're gonna get close to something,
+if it's not gonna be the leg of a giant spider, who will just kill you right away.
+It's tricky because it tricks your eyes and tricks you in terms of gameplay.
+
+Well then, you can also think about games where the world is color coded.
+Another example, like in Mirror's Edge.
+In Mirror's Edge you play in the first person and
+you do this sort of parkour on top of buildings.
+The aesthetic was praised at the time for it's really minimal, clear, and
+clean aesthetic.
+And, one thing in Mirror's Edge is that everything you could do,
+everything you knew you could interact with, had different color.
+Everything was becoming pure red and white.
+Something that is actually creating not only an interesting
+gameplay idea of trying to find your way, not by throwing giant arrows, but
+just by looking at the colors in the world.
+But also really distinct, a really unique aesthetic.
+
+Then again, if we think about Tear Away and
+the way it feels, the ways it looks, the paper properties in Tear Away.
+How you can use different papers, different texture and materials.
+And now you can try to emulate that and see that in the game.
+
+Video games are tactile.
+No matter how you think about it.
+Not only because you touch a screen.
+They're tactile because there's a feedback.
+You're to think about how you interact with the world.
+If you give the world a look where it's clay,
+wool, you have to think about how you can use these properties in the gameplay.
+If it's all in clay, will you be able to remodel, to change, and
+use this clay property?
+
+And then, give a really distinct look to your game is really important.
+As important as giving it, a unique feel.
+It's the case with Katamari Damacy game by Keita Takahashi.
+In Katamari Damacy you're rolling this giant ball that is gathering,
+sticking with a lot of objects, items, people, houses, then planets.
+And this ball created by keeping and combining
+all these aspects and objects, is really happening, there's a feel to it.
+The way the controler is used, by pressing the analog sticks to forward -
+You would push this ball with your hands.
+also plays a really important part in Katamari Damacy and the way you feel,
+moving, rolling actually in that world.
+And if everything looks chaotic and seemingly really unordered, everything is
+actually really simple and really clear, really visually perfectly defined.
+
+### Clockworks
+
+Now let's think about the inner mechanics of the world.
+What it’s like - all the gears, running around, running inside that world of yours?
+Think about the contrast, the oppositions.
+Is it going to be you against the world or the world against you?
+Is it going to be political?
+Is it going to be factions involved, two different armies,
+and what side are you going to be?
+Are you going to be able to see the side of the opposite, the enemy?
+A world lived through time, there's a state of affairs, conflicts.
+If it's a brand new world, untouched, are you going to break it?
+Are you going to change it in some way, in some intimate way?
+That is one of the burdens that you can find in a lot of contemporary games.
+Procedurally generated games, all built through algorithms and mathematics.
+When you start a game, it's a completely different game every time.
+Even though you think about games like that,
+there's layers of time and landmarks.
+You still need to have maybe places that may be the same through time.
+Ancient ruins take cultural legacy in the world,
+a world that is living through its legends and myth.
+You will have to find maybe points of interest.
  A game like Proteus, for
  example, which is displaying an entirely new world every time you play it.
  An entirely new island, a randomly generated world.
