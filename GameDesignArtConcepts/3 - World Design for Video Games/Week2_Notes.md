@@ -352,4 +352,5 @@ Images:
 2. [An idea of the farm and the colors used](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_2.jpg)
 3. [Old school church on the shore, swept by marine wind](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_3.jpg)
 4. [The forest and its path. The game takes place in autumn](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_4.jpg)
+
 5, 6 & 7. [Examples of publications from the 1960s to give a sense of mood](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_5.png)
