@@ -348,8 +348,8 @@ Brimstone Cove is conceptualized as a Pixel-art sidescroller adventure game. It 
 
 The visual style and writing is a take on classic American horror and atmospheric tales, from Edgar Allen Poe to Stephen King to Ray Bradbury. There's definitely Lovecraftian inspiration at its core. John Carpenter and George Romero also have influenced this project, as well as Joss Whedon's Buffy the Vampire Slayer and David Lynch's Twin Peaks. Intentions are to use tropes in a "classic" set-up and try to slightly alter what we know or expect. Although based on horror literature it is not a horror game. Brimstone Cove is colorful while also quite mellow and nostalgic. The story is filled with humor, comedy and cheerful moments. This coming-to-age tale is filled with foul demons, an East Coast vibe, anachronistic TV references, love, and occasionally: pizza.
 Images:
-1. Possible inspiration for the town. American East coast influence, here in Delaware.
-2. An idea of the farm and the colors used.
-3. Old school church on the shore, swept by marine wind.
-4. The forest and its path. The game takes place in autumn.
-5, 6 & 7. Examples of publications from the 1960s to give a sense of mood.
+1. [Possible inspiration for the town. American East coast influence, here in Delaware](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_1.jpg)
+2. [An idea of the farm and the colors used](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_2.jpg)
+3. [Old school church on the shore, swept by marine wind](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_3.jpg)
+4. [The forest and its path. The game takes place in autumn](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_4.jpg)
+5, 6 & 7. [Examples of publications from the 1960s to give a sense of mood](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/2_5.png)
