@@ -286,7 +286,7 @@ As we move on from this lesson, keep in mind that methods of transportation are 
 As you develop your game world concept, ask yourself: Will your game include specific moves? Will you be able to wall-run (Prince of Persia), use a grappling hook (Uncharted 4), be death from above (Assassin’s Creed), fart (Oddworld), scuba-dive (Endless Ocean), or hold someone’s hand (Ico)?
 
 Keep in mind that some moves are not integral to gameplay but might add to the overall experience of being in the world, i.e. petting your wolf friend (Far Cry Primal).
- 
+
 ### Level design in local spaces
 Creating closed or local environments comes with a few rules. “Local” refers to spaces where a certain unity of time and space exist in relation to your character’s movement. This means that the size/scale of your level needs to correspond with your character’s ability to explore it in real time (without ellipses, teleportation, or any other modes of instant transportation).
 
@@ -320,5 +320,214 @@ For starters, here are two resources I recommend on making and reading maps spec
 [Here Be Cartographers: Reading the Fantasy Map](http://www.nicholastam.ca/2011/04/18/here-be-cartographers-reading-the-fantasy-map/)
 
 ## Leave a mark on the world, let the world mark you
+### Moveset
+Let's talk about leaving a mark in the world, or letting the world mark you.
+As a player, as a character.
 
+So now think about moves.
+We're getting a little most specific here.
+Think about the movements your character, characters,
+anything you play with, will be.
+Think about the moves sets, your moves, as they are.
+Walking, climbing, running, striding, crawling, strafing.
+Any kind of gesticulation.
+Another analogy - the ballet of the dance.
+Well when you dance, you dance in a specific space.
+A stage.
+Well again, a stage is another word to define the level, and
+has been used in early games.
+Well, how do you move on that stage?
+On that stage of life?
+As you mimic life and illusion just as you do on a stage, in a play, in a dance.
+Then think about the repetition.
+Again, like a dance like when you have to learn it.
+You have to repeat movements after movements until you master it.
+Well, it's the same in a video game you have a defined list instead of moves.
+Because that's the way video games are thought of, with a set of animations,
+really rarely characters have the freedom to express themselves completely freely.
+Most of the time, you will have to repeat
+through the same set of animations to repeat the same movements.
+Again opening a door, opening a notebook.
+Dropping a gun, recharging it.
+Anyways, all of this has to be repeated multiple, multiple times.
+The effect in that is that you start to learn.
+You start to learn how to move in this world.
+And you start to learn how to move in this world because the environment
+has an effect on you.
+It's impacting you.
+The more you will have to open a trap or walk on a wall.
+You know, some games let you walk literally on walls.
+Well if you have to do that set of moves it’s because the environment
+first lets you do it.
+And because you have to do it to inform
+a story because it's part of a much larger context.
+So as you learn how to move in a game will your character learn as well?
+Will it be only you learning, gaining more dexterity?
+Well that's how the environment can play a really important part on you as
+a player and not just as a context, but as pure mechanic.
+
+### From point A to point B
+Now, let's talk about going from point A to point B.
+Here, we're getting really specific going from one point of the world to another.
+And by that, I mean not just one part of the world, but one part of the story.
+How to start and end your story as you walk, move through it.
+And also what obviously is going to be between point A and point B.
+Think about that journey that you will have in between.
+And here we can talk about that game, Journey.
+Here when you start the game all you will see in the background is that mountain,
+ominous mountain.
+It just takes all the space.
+That's where you have to go.
+That's your set goal, your progression.
+All you will do is try to reach that mountain.
+Get on top of it, you know it.
+It's where you have to be, not just where you have to go.
+And here, in Journey but
+like many other games you have to think about, what's going to happen.
+What kind of enemies, what kind of encounters you will have?
+In a game like Journey, you will encounter other characters which are other players.
+Literally you will help other players, and it will help you reach that mountain.
+You will have adventures with them.
+You will have maybe a sense of story unfolding.
+
+The environment will change, and the feeling, the whole learning experience you
+will have all through the game will define your gaming experience.
+So how can you transform that feeling and
+transfer it into other games, your own game?
+How can you create the journey?
+Well, as you go from one point to another, to point A to point B, you can have
+a whole set of subsidiaries in between spaces, arenas, towns, dungeons.
+If you go from one planet to another will it be just a travel and
+will journey be in that planet to reach, or will journey be the travel itself?
+Is traveling, going through the world, going to be that journey,
+that story, that sense of wonder you want to carry all through the game.
+Another concept, Door-monster-treasure called Hack-and-Slash in English.
+What you do is opening a door, finding a monster, getting a key from it and
+then you repeat.
+You just find another door and with the key you just found you open that lock,
+get to another door, kill another monster, get another treasure.
+In dungeoning games like that, or like Dark Souls,
+the world is actually open right from the start it is just locked.
+If you go into some past that is still, often from the start,
+you might find a way to unlock the other doors.
+Which leads you to more unlocking, more monsters and more unfolding of the story.
+In a game like Dark Souls, you are literally marking the world.
+You can leave messages on the ground for other players, so
+that they will know exactly what to expect.
+What trap, where is the door, where is the key?
+And obviously you can lie.
+All of these participate to create obviously the atmosphere,
+the ambiance, but also create a story line.
+A story telling element that is really important, shared between other players,
+here the environment is the story itself.
+
+### Linear vs. Non-Linear
+Now let's talk about non-linear versus linear game play.
+Well, what is non-linear game play in a video game world?
+Well, you can think about games we talked about.
+Dark Souls, Resident Evil.
+These are non-linear.
+You can also think about Super Mario Bros 3, where in between linear levels, you,
+and on the map, and you have to choose which level you would do, in what order.
+This is non-linear game play.
+A lot of different genres of games are more prone to no- linear game play.
+Well, then you can think of Hack and Slash, door with a treasure
+
+genre we talked about before, are role playing games, which are,
+like the perfect example of environments that are non-linear,
+that allows you to choose in what order you're going to do quests, events, and
+how you want the story to unfold as you go.
+Well, you can just leave the story on the side and as it's called,
+do a side quest, go on another mission.
+Well, think about all that when you design a game.
+Think about how expanded the world can be if it's non-linear.
+Now let's think about Linear gameplay, linear progression.
+A game like Limbo for example.
+is one of the few examples of purely linear gameplay.
+Your going from my point to another which is a really super long level.
+Where you go to point A to point B,
+have a lot of adventures, a journey in between maybe, but no way of coming back.
+Think of it when you develop the game.
+Do you want to leave the ability to the player or
+the character to come back and forth maybe?
+To look behind?
+Or do you want only this sort of rush for life, always going forth.
+All you want to do is vanquish in your way.
+Just conquering that land.
+Well, that's linear game play.
+It's something you need to think about when you design a game.
+Will you put the accent on the story and create maybe more of a linear experience?
+Or non-linear one,
+when your character will be free to explore that universe of yours.
+
+### The Grey Box
+Alright, in this final video let's talk about the grey box.
+
+What is it?
+Well, let's think about this.
+Scrap everything we've seen through all the previous videos.
+Just keep the core of it, the core of what defines your game world.
+Just make it great, boxy, simple, minimal.
+Keep just the minimum of what is necessary for your games to be played.
+Will the game still be fun, engaging, and thrilling if it's just grey, and
+simple and minimal?
+Well, that's really an important concept.
+That's what's used in the video game industry quite a lot.
+Obviously, you don't have to do it.
+It's one way of experiencing the theory of gaming, the theory of fun.
+Well, if you can make the game fun by just moving through all those boxes,
+moving through space.
+Repeating movements, exactly what we saw all those different classes.
+If you can manage to keep the strays a vertical spine.
+The move set as a dance, a ballet, that you can keep repeating, and learning, and
+still having fun doing it after hours and hours.
+Think about it.
+Think how many times you will do the same thing again, and again, and again.
+If it's still fun to do it in a world that is nothing but grey.
+Well, then, you have a great game.
+And keep expanding from that grey box.
+Think about how lush it can be.
+But before it gets detailed, lush and lively, well, make it fun with nothing.
+Wood sticks, just pieces of blocks, nothing.
+If the game is fun with nothing, then,
+it's going to be fun when you will add all the spices, and everything else.
+
+### Asignment (not submitted)
+
+### description 
+Here you are asked to build on the visual style of your world and begin to give it shape and volume. The purpose of this assignment is to conceptualize a world’s levels to advance the game narrative and flow.
+
+For this assignment you are asked to submit a map or model that outlines the borders and/or paths of your proposed world.
+
+There are no limits to this assignment: your map may be drawn by hand or on a computer; your model can be built out of things you have at hand: Lego bricks, paper, popsicle sticks, furniture, etc. Get creative and don’t hesitate to use uncommon materials.
+
+In your map or model you must:
+
+  * show how a character can navigate through the space. You may use arrows, signs, labels, or color coding to identify paths, or find some other way to identify how a player can move through the world.
+  * keep it simple and minimal; almost abstract if you want. Do not use color or lighting except for labels. Make it your “grey box”. You’ll have an opportunity to add color and ambiance in the next assignment.
+
+Upload at least one photo of your map or model only. There are 4 additional spaces to upload media, if you wish, but these are optional. Use captions to describe and highlight what you are sharing with your peers.
+
+Additionally, write a short paragraph that gives your peers some information about your proposed world and justifies the decisions you've made in your map or model. I highly recommend reading the Tips for Completion section below for this part of the assignment. Note: to help your peers, this paragraph is uploaded first.
+
+ 
+### example
+Brimstone Cove is a fictional american town on the shores of New England in Sorenshaw County. It's a fairly small community: a short main street, few shops with friendly tenants, a marina of swaying fishing boats, a wooden white and blue church and a cemetery facing the ocean. On the outskirts, a slightly menacing and grim old colonial mansion stands. Beside the ocean's view, the town is bordered by a forest, some crop fields and a muggy swamp. The weather is mostly overcast with some occasional light shafts piercing the clouds. Sometimes an ominous fog takes over. During evenings though, occasionally, stars shine bright while the sky clears out.
+
+The game begins with the main character, Lyndon, making a big discovery in the barn at his family’s farm. This sets off a series of events that leads Lyndon to meet with his friends, Thaddeus and Callista (who are also playable characters in the game) into Brimstone Cove and further thrilling mysteries.
+
+The game is non-linear: the characters can move back and forth between any level of the game at any point. Each character navigates the world on foot. The placement of the locations is logical: adjacent locations mimic how they might appear in the real world, ie. from farm to field to forest to town. But there are secret short cuts in specific moments in the game. Also, the player has the ability to teleport between locations they have already visited. 
+
+The maps below presents visualizations of the entire world of the game. 
+The [first](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/level-design.jpeg) is drawn by hand, which would be fine for this week's assignment.
+I'm also sharing with you [two](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/1.png) [views](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/3%20-%20World%20Design%20for%20Video%20Games/3.png) of the same map rendered in Unity.
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
 
