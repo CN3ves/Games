@@ -192,6 +192,20 @@ Then, please answer the following three questions:
    1. Describe your game. Why do you find the game compelling?
    2. What defines your world? Tell your peers what makes your game world unique.
    3. How does the environment of the game affect the game play?
+   
+For the question that asks why do you find the game compelling, ask yourself:
+
+  * Why do you like to play in this world?
+  * Do you like being in that world?
+  * What is it you find appealing or fun about this world? Is it the visuals, the story, the characters, or something else? 
+
+To define your world, use any of these prompts to craft your answer:
+
+  * Is your world constrained with boundaries (ie. with walls or fences) or does it infinitely expand?
+  * Does the game world resemble a real-life environment or is it completely constructed?
+
+  * If your world is completely unique what defines it? Think technology, culture, society, religion, etc…
+  * If it resembles reality, is it contemporary or historical?
 
 ### Example
 Take a look at my response about [Snatcher](https://en.wikipedia.org/wiki/Snatcher)
