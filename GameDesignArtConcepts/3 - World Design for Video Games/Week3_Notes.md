@@ -509,7 +509,14 @@ In your map or model you must:
 
 Upload at least one photo of your map or model only. There are 4 additional spaces to upload media, if you wish, but these are optional. Use captions to describe and highlight what you are sharing with your peers.
 
-Additionally, write a short paragraph that gives your peers some information about your proposed world and justifies the decisions you've made in your map or model. I highly recommend reading the Tips for Completion section below for this part of the assignment. Note: to help your peers, this paragraph is uploaded first.
+Additionally, write a short paragraph that gives your peers some information about your proposed world and justifies the decisions you've made in your map or model.
+For your paragraph response, use the following prompts to help you:
+
+  * Is the game linear or non-linear?
+  * Is your map or model the entire world or just a section of it? Is there something implied outside the playable area of the game world, either seen or not seen?
+  * How does a player move through the world? Are they walking, running, climbing, riding a horse, jumping through portals, or a combination?
+  * How much time will it take a player or character to explore the world? Will exploration happen in real time, or will players be able to jump between areas of the map?
+  * How is the world unified, ie., is there consistency from level to level? If the levels are not consistent, please explain why!
 
  
 ### example
