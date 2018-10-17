@@ -340,10 +340,24 @@ For the purposes of this assignment you are asked to upload a selection of visua
 
 Submit a minimum of 4 images, but no more than 10. You are required to include visuals from at least two different sources.
 
-For each image please submit a caption that describes specifically how the image connects to your vision of the world, or why you have chosen it. To help your peers, write any specific details in the image you want to highlight.
-
+For each image please submit a caption that describes specifically how the image connects to your vision of the world, or why you have chosen it. 
 You are also asked to write a short paragraph describing your vision for your world, and how the visual elements fit together or connect. This may be very loose or intuitive at this point, but that's okay! Note: to help your peers, this paragraph is uploaded first. 
 
+When designing a game, this stage can take many forms–there’s no rule book here! But visual research is an important first step.
+
+  * Remember, don’t create from the void: this is a research assignment and you are encouraged to seek out existing images rather than make your own.
+  * Choose images that you like or drawn to.
+  * Do look at sources outside of video games: films, art, books–anything except your own drawings or sketches. For example, you can select images from films only but they need to come from at least two different films.
+  * The assignment module only permits us to upload still images – no video clips. Instead, share a screenshot of a specific scene from a game or film to get a sense of what is happening.
+
+For your written paragraph, use the same prompts as above to start sketching out an imagined world. For example:
+
+  * What is the time period of your world? When does it take place?
+  * Where is the world located? Is it in a forest, desert, underwater, in space, an abandoned building? What are some of the characteristics of that landscape or context?
+  * Stemming from location, how does the climate of your world affect the landscape or context?
+  * What about lighting? Is it bright and colorful or dark and spooky?
+  * What are the circumstances that created this world? Is your world peaceful, at war, or is it recovering in the aftermath of a battle? What would be some crucial characteristics that would relay its past, present and future states? 
+    
 ### Example
 Brimstone Cove is conceptualized as a Pixel-art sidescroller adventure game. It is narratively driven and visually minimal. Influences range from LucasArts' classic adventure games from the 90s, such as Maniac Mansion and Days of the Tentacle, to modern games like Silent Hill, Kentucky Route Zero and a tiny bit of Sword and Sorcery. A major inspiration also comes from the Japanese videogame series Mother (EarthBound).
 
