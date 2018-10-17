@@ -322,16 +322,21 @@ We're getting a little most specific here.
 Think about the movements your character, characters,
 anything you play with, will be.
 Think about the moves sets, your moves, as they are.
-Walking, climbing, running, striding, crawling, strafing.
+  * Walking, 
+  * climbing, 
+  * running, 
+  * striding, 
+  * crawling, 
+  * strafing.
 Any kind of gesticulation.
+
 Another analogy - the ballet of the dance.
 Well when you dance, you dance in a specific space.
 A stage.
 Well again, a stage is another word to define the level, and
 has been used in early games.
-Well, how do you move on that stage?
-On that stage of life?
-As you mimic life and illusion just as you do on a stage, in a play, in a dance.
+How do you mimic life and illusion just as you do on a stage, in a play, in a dance.
+
 Then think about the repetition.
 Again, like a dance like when you have to learn it.
 You have to repeat movements after movements until you master it.
@@ -343,10 +348,11 @@ through the same set of animations to repeat the same movements.
 Again opening a door, opening a notebook.
 Dropping a gun, recharging it.
 Anyways, all of this has to be repeated multiple, multiple times.
+
 The effect in that is that you start to learn.
 You start to learn how to move in this world.
 And you start to learn how to move in this world because the environment
-has an effect on you.
+has an effect on you. **the game environemnt teaches you how to move within it**. 
 It's impacting you.
 The more you will have to open a trap or walk on a wall.
 You know, some games let you walk literally on walls.
@@ -365,6 +371,7 @@ Here, we're getting really specific going from one point of the world to another
 And by that, I mean not just one part of the world, but one part of the story.
 How to start and end your story as you walk, move through it.
 And also what obviously is going to be between point A and point B.
+
 Think about that journey that you will have in between.
 And here we can talk about that game, Journey.
 Here when you start the game all you will see in the background is that mountain,
@@ -375,6 +382,7 @@ That's your set goal, your progression.
 All you will do is try to reach that mountain.
 Get on top of it, you know it.
 It's where you have to be, not just where you have to go.
+
 And here, in Journey but
 like many other games you have to think about, what's going to happen.
 What kind of enemies, what kind of encounters you will have?
@@ -394,7 +402,8 @@ If you go from one planet to another will it be just a travel and
 will journey be in that planet to reach, or will journey be the travel itself?
 Is traveling, going through the world, going to be that journey,
 that story, that sense of wonder you want to carry all through the game.
-Another concept, Door-monster-treasure called Hack-and-Slash in English.
+
+Another concept, **Porte-monstre-trésor** called **Hack-and-Slash** in English.
 What you do is opening a door, finding a monster, getting a key from it and
 then you repeat.
 You just find another door and with the key you just found you open that lock,
@@ -416,16 +425,16 @@ here the environment is the story itself.
 
 ### Linear vs. Non-Linear
 Now let's talk about non-linear versus linear game play.
-Well, what is non-linear game play in a video game world?
+Well, what is **non-linear game play** in a video game world?
 Well, you can think about games we talked about.
 Dark Souls, Resident Evil.
 These are non-linear.
 You can also think about Super Mario Bros 3, where in between linear levels, you,
 and on the map, and you have to choose which level you would do, in what order.
 This is non-linear game play.
+
 A lot of different genres of games are more prone to no- linear game play.
 Well, then you can think of Hack and Slash, door with a treasure
-
 genre we talked about before, are role playing games, which are,
 like the perfect example of environments that are non-linear,
 that allows you to choose in what order you're going to do quests, events, and
@@ -434,7 +443,8 @@ Well, you can just leave the story on the side and as it's called,
 do a side quest, go on another mission.
 Well, think about all that when you design a game.
 Think about how expanded the world can be if it's non-linear.
-Now let's think about Linear gameplay, linear progression.
+
+Now let's think about **Linear gameplay**, linear progression.
 A game like Limbo for example.
 is one of the few examples of purely linear gameplay.
 Your going from my point to another which is a really super long level.
@@ -443,7 +453,6 @@ have a lot of adventures, a journey in between maybe, but no way of coming back.
 Think of it when you develop the game.
 Do you want to leave the ability to the player or
 the character to come back and forth maybe?
-To look behind?
 Or do you want only this sort of rush for life, always going forth.
 All you want to do is vanquish in your way.
 Just conquering that land.
@@ -454,33 +463,32 @@ Or non-linear one,
 when your character will be free to explore that universe of yours.
 
 ### The Grey Box
-Alright, in this final video let's talk about the grey box.
-
+Let's talk about the grey box.
 What is it?
 Well, let's think about this.
 Scrap everything we've seen through all the previous videos.
 Just keep the core of it, the core of what defines your game world.
-Just make it great, boxy, simple, minimal.
-Keep just the minimum of what is necessary for your games to be played.
+Just make it grey, boxy, simple, minimal.
+Keep **just the minimum of what is necessary for your games to be played**.
 Will the game still be fun, engaging, and thrilling if it's just grey, and
 simple and minimal?
 Well, that's really an important concept.
 That's what's used in the video game industry quite a lot.
 Obviously, you don't have to do it.
 It's one way of experiencing the theory of gaming, the theory of fun.
+
 Well, if you can make the game fun by just moving through all those boxes,
 moving through space.
 Repeating movements, exactly what we saw all those different classes.
 If you can manage to keep the strays a vertical spine.
 The move set as a dance, a ballet, that you can keep repeating, and learning, and
 still having fun doing it after hours and hours.
-Think about it.
 Think how many times you will do the same thing again, and again, and again.
 If it's still fun to do it in a world that is nothing but grey.
 Well, then, you have a great game.
 And keep expanding from that grey box.
 Think about how lush it can be.
-But before it gets detailed, lush and lively, well, make it fun with nothing.
+**But before it gets detailed, lush and lively, well, make it fun with nothing**.
 Wood sticks, just pieces of blocks, nothing.
 If the game is fun with nothing, then,
 it's going to be fun when you will add all the spices, and everything else.
