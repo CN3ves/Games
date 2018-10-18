@@ -26,6 +26,7 @@ In summary:
   * The body of one creature is of (dead) organic matter while the other is plasma-based
   * This is reflected in the contrast of stranger, solid lines with the wavy, less pronounced and brighter lines.
   * Both have human shape, but one is a thread of this world while the other is a mysterious entity phasing between worlds
+  * The different designs reflect potentially different in-game roles
 
 
 
