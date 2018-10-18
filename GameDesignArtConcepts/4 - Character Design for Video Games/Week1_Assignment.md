@@ -39,3 +39,15 @@ For my first design, I considered a game situation where little character detail
 For my second design, I explored the effect of character proportion. By having a complete body, I can add some additional props (sword and shield) which communicates clearly that the character is some sort of fighter. Unlike the previous design, this full-bodied, proportional design allows the character to be used in additional game situations, such as combat. Thus different body proportions can indeed be associated with different in-game roles (big head: map navigation; full body: combat/action).
 
 For my last design, I explored the effects of density in conveying the background/story of the character. I've changed the clothing to a more priestly robe, added a cross necklace, a (holy) book and a belt with a wooden stake and some garlic (identifying these props from my drawings may not be an easy task!). By increasing the detail of the character design with the addition of props (increasing the density), it is easier to communicate his membership to a religious order (robe, cross, book), his potential relationship with vampires (wooden stake, garlic) and, being armed (sword), deduce his role as a vampire hunter.
+
+## Comments
+
+What is, in your opinion, the strongest or most exciting thing about their character designs?
+ 
+  1. No comment
+  2. Nice idea and written description really helps to understand your character!
+  
+What is one thing the student can do to improve their designs? Do you have a suggestion to make the designs more interesting or exciting? Or can you suggest some ways your peer can adjust the designs to articulate their character more clearly?
+
+  1. No comment
+  2. I would like to see more diversity in character designs, while preserving the idea
