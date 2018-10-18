@@ -14,18 +14,18 @@ In addition to your two characters, upload a short paragraph that describes your
 Dark enemies
 
 ### Provide a short written description of your two characters, their context (ie. the game) and your approach in designing them.
-I am not a designer and my drawing skills are not professional. Even so, I decided to draw some character sketches and got some light effect from powerpoint (!)
+I am not a designer and my drawing skills are not professional. As such, I  drew some character sketches and got some light effect from powerpoint (!)
 
-My character design for Week 1 was that of a vampire hunter. This week I made some sketches for potential enemies based on different design choices. The main design oppositions I considered are the line types, line strength (fading) and the strangeness (other-wordiness)  of the creatures.
+My character design for Week 1 was that of a vampire hunter. This week I made some sketches for potential enemies based on different design choices. The main design oppositions I considered are the line types, line strength and the strangeness (other-wordiness) of the creatures.
 
- 1. The one of the left could be used  a "boss-like" vampire (based on the manananggal myth). This creature is designed to be **fully corporeal, having stronger, more solid lines** defining it. It has clear human shape and anatomy, and even though it's in an undead state, it remains an **organic creature**. The design and density of this sketch is chosen to make this creature **immediately threatening** (fangs, claws).
-
- 2. The creature on the right is, by opposition, defined by **wavy and less pronounced lines**. As such, this creature does not seem to be organic, but more of a **"plasma" based entity**. It has also less density (simpler) giving it a **stranger** aspect, even though it has still a human shape. It's other-wordiness is further demonstrated by the missing parts on the design (a erased shoulder, arm, etc) and its **brighter appearance**. Its appearance is **more mysterious** than threatening.
+  1. The one of the left could be used  a "boss-like" vampire (based on the manananggal myth). This creature is designed to be **fully corporeal, having stronger, more solid lines** defining it. It has clear human shape and anatomy, and even though it's in an undead state, it remains an **organic creature**. The design and density of this sketch is chosen to (try to) make this creature **immediately threatening** (fangs, claws).
+  2. The creature on the right is, by opposition, defined by **wavy and less pronounced lines**. As such, this creature does not seem to be organic, but more of a **"plasma" based entity**. It has also less density (simpler) giving it a **stranger** aspect, even though it has still a human shape. It's other-wordiness is further demonstrated by the missing parts on the design (a erased shoulder, arm, etc) and its **brighter** appearance. Its appearance is **more mysterious** than threatening. This creature is more than an enemy to "beat-up", its strangeness raises questions and moves story-line towards (plot-device creature).
 
 In summary:
+
   * The body of one creature is of (dead) organic matter while the other is plasma-based
   * This is reflected in the contrast of stranger, solid lines with the wavy, less pronounced and brighter lines.
-  * Both have human shape, but one is a thread of this world while the other is a mysterious entity *phasing* between worlds
+  * Both have human shape, but one is a thread of this world while the other is a mysterious entity phasing between worlds
 
 
 
