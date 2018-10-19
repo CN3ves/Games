@@ -156,6 +156,9 @@ are interesting, that's when I start looking at things critically.
 I don't know this character yet, so
 part of the process is making the mistakes and finding the things that you like.
 
+ * [The explorer sketches 1](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_001.jpg)
+ * [The explorer sketches 2 ](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_002.jpg)
+ 
 ### Refining the Explorer
 
 So I mean we can go to the next step.
@@ -282,6 +285,8 @@ You just want to get the basic shapes.
 Basically, 
 that reads at that size as a guy with a frog and some skulls around his neck.
 
+  * [Redefined explorer](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_006.jpg)
+  
 ### Drawing the Alien
 
 So yeah, I'd start designing some weird creatures.
@@ -360,6 +365,9 @@ it probably would be more like this inhuman thing, it's giant.
 Seems more in tune with his stuff.
 It's like that horrible features coming out of it,
 it's like a combination of a bunch of these creatures kind of fuse together.
+
+  * [Alien schetches 1](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_003.jpg)
+  * [Alien schetches 2](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_005.jpg)
 
 ### Refining the Alien
 
@@ -497,6 +505,7 @@ Until you get the right line that you want.
 Since it's floating, I'm going to make a little shadow
 That is what we call good enough.
 
+  * [Redefined Alien](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Andy_004.jpg)
 
 ### Homework
 I'd like you to try designing two characters for
