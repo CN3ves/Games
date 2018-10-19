@@ -288,26 +288,21 @@ So what I like is to choose something simple so people have less learning curve.
 [The dance battle between the robot, and the astronaut](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Jacky_02.jpg)
 
 ### 2D Tablet Drawing
-No I can just do it on my phone,
-cuz that's the other thing I usually do is I start just sketching using my app.
+The other thing I usually do is I start just sketching using my app.
 So basically this is a program I have been using for the last five years.
 It's called Sketch Club.
-I highly recommend it.
 I like this better than the Autodesk one.
-Maybe I'm just used to it.
 It's just a lot more simpler and It has everything I need and
 you can record process.
-So, I'm gonna start recording.
+
 Like what Photoshop has, you can do layers, you can fill colors.
 So I usually start with a color fill.
-
 Just to not draw in the white background.
 Drawing on the white is like you already push it to 11.
 They have become more of a carving into a negative black process.
 But in digital, we have the freedom to use any colors.
 And when I use a brush, I use super simple,
 just one brush and draw all of them in different sizes.
-
 And once again, stylus don't really have pressure sensitivity.
 So first I was really bummed out, but later I really discovered that's actually
 really good, because then you're putting down very confident value.
@@ -317,7 +312,6 @@ that's better than dithering with values too much.
 There's many tools I can use right now I'm just gonna use some very simple ones.
 I'm laying down some very basic values so
 I can pick them very easily just by holding down to the canvas.
-
 Also make sure I only draw on the separate layers.
 It's almost like just painting.
 When I was at Disney featured,
@@ -327,15 +321,15 @@ I'm just doing a lot of this type of thing because you can redo and
 undo very quickly.
 And you don't have to mess with oil.
 Cuz' learning how they use real oil to paint is a trick on its own.
-I'm just playing with a very simple shape, you wanna start with a bigger brush.
+I'm **just playing with a very simple shape, you wanna start with a bigger brush**.
 I wanna start with a very simple idea my head.
 What do I want this player to do?
 So I'm trying to think of scenario, okay.
 Maybe he's already in a dance pose, rather than a T-Pose.
-When you make a character,
-it's much better to have the character doing what it wanted to do.
+**When you make a character,
+it's much better to have the character doing what it wanted to do**.
 
-Then just put him into a straight T-Pose.
+Then just put him into a **straight T-Pose**.
 T-Pose is like a very standard staying in 3D animation,
 you have a character, you put the arm out and you put the leg down like that.
 That's a T-Pose.
@@ -352,33 +346,19 @@ you wanna start something more than just a T-Pose.
 You can always bend the character back to a T-Pose when you,
 go back into the production.
 
-T-Pose way back when remembered of very classic.
->> [INAUDIBLE] yeah the [INAUDIBLE] in the circle.
->> Yeah I'm surprised no one has made a 3D model of that.
-Somebody should do that like a model people do that,
-that will be pretty interesting so much.
-
-To do in so little time.
-That's my frustration.
-If I can do everything that went through my head, yeah, I'll be a lot happier.
->> I noticed your sticking with magenta's and greens.
->> Mm-hm >> Why those two colors?
->> I don't know, I kind of just always felt like i wanted some 60s groove.
+I noticed your sticking with magenta's and greens.
+Why those two colors?
+I kind of just always felt like i wanted some 60s groove.
 Cuz' astronaut always used like a brownish grey, it's very serious.
 So I wanna maybe use some prime playful color in this one instead.
 But I guess that is the one rule I bended.
-
 The design itself should be more realistic maybe or maybe more legit.
->> Well we're bending some of the rules there weren't artificial intelligent
-robots back then either.
->> Yeah exactly.
 So I guess that what I'm getting from the idea is I want,
 I'm thinking about something very playful.
 Make something, Something not serious.
-It's about playing.
+
 
 So once again, there's really no detailing, it's just a pose.
-Right now.
 So but now you can, once you have established a very strong silhouette.
 Then you can start laying down some details.
 But it's all about how different you wanted that it to shift.
@@ -387,9 +367,7 @@ I cannot really say the good concept art it just the latest trend.
 Is to have the color really pushed to one direction, so when you look at it
 you can have the detail color shift on different props.
 You can also have it to be accentuated based on the real lighting resources.
-Does that make any sense?
->> Yeah.
->> Yeah, so it all depends on what you wanna say.
+so it all depends on what you wanna say.
 If you want your character to appear to be very physical.
 Sell the of,
 is in the real physical world, then you can even go out and study,
@@ -407,31 +385,27 @@ each you want, cuz' you don't want it to take too much of a sensory overload.
 You want it to make sure they don't compete with each other.
 A good drawing, everything you should to sing the same tone.
 
-But the one's you can start with a design the rest of is all detail management.
+But the once you deceded on a design the rest of is all detail management.
 I like to put just a hint of gray, in the same color family into each color.
 It's a trick a lot of painters uses.
 What it does is it creates a very,
 it makes the color, the saturated color, much more vibrant.
 It makes your, it tickles your eye in a very good way.
 So that's what I like.
-
 Also the other thing I do is I can turn lower the transparency
 that will create a nice color mix.
 But I don't do that too often because if you do that too often your color,
 your drawings start to become blurry.
 
 The first couple patch of color is very important.
-
 Because that pretty much establish what color you want to be in this drawing.
 So you have wanted to have a better transition between this and this.
 I just go to the, the gray scale, put brush to be 50% transparent.
 And just brush it once over.
 And then you'll create a nice transition.
-You can just.
-I don't know if you can see it.
-[INAUDIBLE] I can zoom in here.
+
+
 The art director from Journey, Matt Nava, he got me into this.
-Jaw on the phone theme with me but
 I don't know if he actually does this on the phone.
 He just does it as hobby.
 But a lot of early design for
@@ -441,9 +415,9 @@ And in a coffee shop I just start doodling.
 Is a very handy tool and
 as far as phone now is a huge, like iPhone 6 Plus is like Galaxy.
 It's a big dimensions so you can really get a nice drawing going.
->> Yeah. >> The what
+The digitalisation, what 
 it does is allows you to draw small but they can appear as they big.
-Cuz' all you need to do is zoom in, [LAUGH] it's big.
+Cuz' all you need to do is zoom in, it's big.
 So it doesn't matter what the format is.
 Anyway, like right now for example,
 I'm drawing this one astronaut doing the dance move.
@@ -451,50 +425,32 @@ Clearly, composition wise, I can't really fit the other robot onto it anymore, b
 because it's digital, what I do is.
 I can raise this layer and duplicate it.
 And then always make a safe duplicate layer.
-
 And then I can just do like a scaling after I did some work.
-
 So this way I can draw a robot and fit it to the side.
-
 I can either make it taller or shorter.
 Like tweak the composition a little bit.
-Here and there.
 
 I like that so now I have more space to work with the robot.
-
 Again I don't really draw the whole structure yet.
 I just play with the shapes.
 If I don't like the shape I just change it.
 
-And when I'm going with this shape, I'm not really thinking in terms of robot, I'm
-just thinking about abstractly [INAUDIBLE] what shape looks pleasing and interesting.
-And to make a robot out of that shape.
+And when **I'm going with this shape, I'm not really thinking in terms of robot, I'm
+just thinking about abstractly what shape looks pleasing and interesting.
+And to make a robot out of that shape**.
 So it's important for us to break the category first,
 create something that's outside the category, and then re-categorize it later.
-
 That's how we create new and beyond what's there.
 
 So right now what's happening is, I felt like the color pattern design is a little
 too overwhelming, so I'm using some like lower opacity brush to dim down the color.
-
 Just overlay it so it doesn't draw too much of your eye.
-
 But as soon as I've finished that, I will go back to the sharper design.
 
-This will cover it up.
-
->> One of the things I think is tough about drawing with pen is not
+One of the things I think is tough about drawing with pen is not
 really knowing what the whole character's gonna look like until it's done.
->> Mm-hm.
 Because you have to start partially.
->> Yeah, how do you deal with that?
->> Let's see.
-I'm gonna deal with drawing things you can only draw half.
-Well, the same way I deal is I can't read your mind.
-
-Just, knowing what limitation is, and work with what you have.
 So because the pen has this
-
 policy of you can draw it but you can only draw it halfway from a side.
 That allows so much more wonder and
 surprise elements when you finish the drawing.
@@ -503,8 +459,7 @@ never say never right?
 That's something, other medium might not have the same thing.
 Cuz' when you brush, your one brush stroke,
 that may just look like a human silhouette.
-And you're done. >> Mm-hm.
->> It's a very quick feedback rule.
+And you're done. It's a very quick feedback rule.
 So the drawing has that nice feeling of you draw super slow.
 And then you put detail here and there.
 And then you see the whole picture.
@@ -512,27 +467,17 @@ It creates this cinematic movie experience when you're creating art don't you th
 It's like you start with a blank slate.
 You have nothing on the page.
 And then you end with now I understand what this is all about.
->> Okay yeah I think so.
->> It's like cathartic.
->> Oh is it a problem that you can't see the whole thing, all at once.
-You're saying it's good to have that surprise.
->> Mm-hm, yeah, it's good to have that surprise.
+
 So once again, this is a very quick just a rough concept of what this robot is like.
 Now I could start drawing another character if I wanted to.
-
 Like a secondary character.
-
 Maybe I'll change a different color.
-
->> Trying a totally different color there?
->> Mm-hm.
+rying a totally different color there?
 Again, I'm working with a very simple shape.
 
 So that character is small and in the back so
 he needs a little bit more close ranged value.
-
 And it's a very very subtle difference.
-
 Again, I'm still just an entry point student in terms of finding good values.
 Those Disney guys they're super amazing at doing it.
 Just really push value to be so
@@ -541,14 +486,9 @@ close range but just enough you can tell the difference.
 To me that is Kung Fu.
 You know Kung Fu actually means mastery on something in Chinese.
 It means effort, but in the western culture it just means martial art.
-
 You have people say in China.
-
 When you something is amazing, you say, oh that requires a lot of Kung Fu.
-
 It means it requires a lot of effort.
->> Mm-hm.
->> So they appreciate it.
 
 Maybe that's why when you grow older you start to appreciate finer things more,
 it's because you know your life is fleeting away.
@@ -557,53 +497,36 @@ So when you see something takes a lot of time to do,
 you really appreciate it versus when kids see it, they take it for granted.
 Cuz they don't know the relative terms of how much is a second.
 
-Or minute.
-
-Also the other thing I really like, I like podcasts.
->> Yeah.
->> I think I just like humorous and
+Also the other thing I really like improv podcasts.
+I think I just like humorous and
 in general, I think laughter is the ultimate weapon against death.
->> Mm-hm.
->> Cuz' no matter, what you do in life
+Cuz' no matter, what you do in life
 if you become too depressed if you can laugh about it that means you win.
 
-You win the round.
->> Mm-hm.
->> So I like I like comedies.
 So there you go.
 I just did some very simple 60s groove.
 Maybe I'll add a planet on the back.
 I'm sure I can just put this layer on the back
-
 Laying down some more aggressive colors.
-
 But I felt like I made a mistake.
 I should be drawing the space first cuz then
-
 I can use the color to block the color in front.
 You will see what I mean as soon as I start putting blocking color.
-
 See part of it I was using
-
 the third color to shape the character, now the dirt shows why.
 This is a discipline thing.
 If I was being more disciplined.
 It won't happen.
 I would just make sure I use erasers rather
 than use a different color to paint.
-
 Now I'm just putting down some big colors.
 Kinda like to add a little bit of, add a mist here
 even though on Mars they don't have an atmosphere.
 
->> Is there a subject matter or
+Is there a subject matter or
 something that you really wanna see in a game that you haven't seen yet?
->> Subject matter >> Just last shooting game,
-last robot game, cuz' there's too so many of them.
 I wanna see a game explore.
-
 Maybe just different human conditions, make us all connected in some way.
-
 Family value.
 
 Really, really thought about it.
@@ -613,17 +536,314 @@ Like something we all have in common and
 understanding where we are in the grander scheme of things, in the universe.
 Understanding there is no bad guy in the world,
 we're just all having our world of play.
-
 I guess that's the kinda game I wanna see.
->> Mm-hm.
->> A game operating on a much higher or lower level, is always good.
+
+A game operating on a much higher or lower level, is always good.
 Like, to me this is just a very simple sketch version of a concept
 I can go more detailed into later, but this is perfect for phone size.
-But why do my timecard animations,
+But whwn do my timecard animations,
 I usually make a character based on one of those simple concepts.
 
-And save to image.
-And done.
->> Cool.
->> All on my phone.
->> Nice.
+[phone concept](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/jacky_3.png)
+
+### 3D Modeling
+Basically what time card is.
+Time card is a sheet of card you fill in to get paid every Friday,
+when you work at Disney Feature.
+Well, any other workplace call them time card.
+So the reason I call it time card is because I was the designated reminder for
+everyone to fill their time card on Fridays.
+So after I left Disney, I was still text messaging all my buddies who work at
+Disney as a way to cement our friendship.
+First of all, just like a very simple joke, just a text message.
+But eventually it grew into a super elaborate,
+like a movable motion comic book, every week I do.
+But now it become even bigger, something I'm trying to experiment on.
+
+This is the kinda concept how this is the kind of idea how I
+design a journey character, because it's a completely different medium.
+For the longest time me and the art director, we were trying to figure out
+what the Journey, the video game, the character should look like.
+So what it end up with we have a lot of really beautiful drawing design on paper.
+It looks really nice.
+But the problem is, once we implement it into the video game, in a 3D world,
+it looks nice, but when you start to move, there's a lot of problems, technically.
+You have the collision run into each other, and the cloth sim doesn't work very
+well, because that game is pretty much about cloth and the fabric simulation.
+So eventually I just started to design directly in 3D space.
+See what is the most elegant design for a 3D space as a cloth sim?
+And it turns out, a half-folded paper cup,
+unfolds itself into a wedge shape, that's the best design.
+So that become the idea of the Journey character.
+
+This is a very good rough, I think so far,
+I mean, compared to all the professional concept art painters,
+because they take pride in their professionalism, this is like nothing.
+But to me, it's good enough to get me started in my own time card production,
+if I wanna make this into a time card animation.
+
+So I would literally take this concept art, into the 3D program,
+I would start cutting them in to shapes, and
+I would fold them like a paper-mache, in 3D virtual space.
+And then create a very simple low-poly model, and then them very quickly with
+my universal rake I've perfected for the last three, four years.
+And then used as a dummy so I can animate them,
+and then hopefully I push it out before Friday ends.
+And then my last one was about to have a battle between characters.
+So this is what I end up with.
+Friday I will do like an animated version.
+But this one is trying to keep the same authenticity of the 2D.
+So a lot of tricks I used here are very hand-drawn and scanned into the computer.
+I can show you the UV texture layout.
+I do a lot of UV texturing.
+I want to make like a life join and move.
+So we can see when it moves, all the ink pieces moves as well.
+This is a composition of the entire thing you can see.
+And if I hit play, it will just be playing in the loop mode.
+
+So now I'm gonna do is just a quick demo on the early drawing we did.
+So this is exactly the process I would do on time card.
+So I exported that photo onto my photo.
+
+One thing I do want to do is to make this into a square format,
+because the Maya when you create a cube, is square.
+So when you project any texture, if it's not dimensional, it will stretch it.
+So over the years I just make it square so it's easy for every one.
+And power by two squares always a computer friendly and
+maximize all the texture space.
+Okay we just need a different color here.
+
+Discovering your own naming conventions is always good,
+because then you can even know who created a file and why.
+
+So I'm gonna start making character now.
+This is the exact process I do with every character.
+So, I click the button, I always turn off my interactive creation tool,
+because I want a perfect cube.
+Just much easier. Autodesk is trying to change a lot of things I like in life.
+So I prefer the old school Maya.
+So then I just start cutting it with the legacy cutting tool.
+If you use a newer Maya you probably need to do a little bit research on Internet,
+there's a way you can get back the old script,
+the legacy script, how to cut tools.
+But this is just my process,
+my purpose is to really not to have anyone conform to my process.
+I'll just show you how I work.
+
+So you should always find your own way of working,
+because we are all different in some way.
+Only you know what's best for you.
+I don't wanna take too much of the time to make this, so
+maybe I just use the robot as an example.
+Just to show you how this is done.
+See, I'm just regionalize all the patches, right now.
+And this is all about the art of clicking.
+The faster you can block your target and
+hit exactly where you are, the faster you can be in this process.
+This is a process that require years of practice.
+
+If you don't, it can be very slow.
+But if you get really fast, you don't really have to think much.
+You just put your brain into a semi resting area, listen to podcast,
+music, and it's very meditative.
+To me it's like digital tailoring or knitting, I think knitting is very good.
+So as you can see,
+It really helps you to think about something else when you are doing this.
+If you're constantly thinking, aw I'm just drawing the line, and
+connecting lines to this line then you will drive yourself crazy.
+
+But obviously making the character takes a lot more time cuz
+you're building a new character and you're building a new rig.
+Usually a simple character takes maybe about three to five hours to build.
+But it all depends, the more you do it, the more experience you gain.
+And you understand oh, this amount of shape will take this amount of time.
+
+So I build this part out.
+I'm not gonna build the whole character,
+because obviously the audience will get bored.
+So what I do in next step is I'll take this out through, I'll make a duplicate.
+I will select all those spaces, take out that, deselect that.
+So end up to be this much.
+Center, duplicate one more time.
+This is a process I don't think anyone in the world is doing.
+and it's probably too stupid for people to do, but I do it anyway.
+So, I call it regionalising uv surface.
+So basically, I will select all the color that belongs to that patch.
+Again, this is, no one taught me this.
+I just kind of come up with myself, and
+this seems to be the most ideal thing to do.
+So, I have a reference here, and I have this.
+And I do a projection.
+I do a create mapping projection and
+I choose again you can see I click mouse super fast.
+It's because I wanted to save time, be efficient.
+Is when using that look it's done.
+So now you can see this is the rough.
+This is the rough iPhone painting and this is the time card quality 2D shapes.
+It creates a very easy way to model.
+And then I can, inside I'm creating the shape.
+And then to create a back, I just Duplicate.
+And then make this, raise it and make it flip.
+Make sure flipping normal.
+I think the new Maya it automatically flips it.
+But old Maya you have to do on I've freeze and then normal reverse normal.
+So the other thing is polygon is the essentially the overhead
+of the 3D software.
+The higher the poly is, the slower your machine is.
+So keep your poly low, keep your profit high as a business person would tell you.
+I heard it from like a when I was working in the commercial industry back
+in 2004, 2003.
+In the commercial building a bunch of like you know old crusty guys.
+Like imagine Don Draper from the 60s but a lot older now.
+Hey son let me teach you a lesson, keep your overhead low, keep your profit high.
+So I basically translate I can do keep your digital polygon low and
+then your profit will get higher.
+
+So this is pretty much, I mean I stream videos on my
+Twitch channel on autotype.twitch every Thursday night so
+if you wanna watch more extended video of me making timecard you can tune in.
+I mean, I can take the time to sow it back in, but or I can just leave it this way.
+
+Like, if I don't like the hole there, I just pick a and seal it shut.
+Or make them smaller.
+Then tuck it from so nobody sees.
+I actually build a bunch of Wreck it Ralph character use this technique.
+Some of the concept artist really appreciate it because I'm
+basically keeping the exact proportion.
+And authenticity of their 2D concept art.
+Notice all the lines I indicated can be potentially used to be a shape?
+That's just very handy.
+It's like you don't even need to build any more than what you have, and
+the shape will just form itself because it's all there.
+You have no wasted shape, essentially.
+
+So this is how I construct the other half,
+by taking this, duplicate it, center, freeze,
+and then go to the axe, make a rotation model.
+If you really want a symmetry, you can cut in the middle and sew it in the middle,
+it will just be symmetrical.
+But I want the robot to appear to be more tactile, or drawn for
+a kid, as that somewhat intelligent, or not intelligent,
+this hand quality, so I want to preserve all my mistakes.
+My randomness, every solution has a better solution.
+And sometimes you'd be surprised, if you just keep experimenting,
+you'll find a much better way to do things.
+But, if you constantly experiment, you never lock down your technique,
+and you never get good at it, meaning, you are still not perfecting your technique,
+you're still not a master of your domain, you're just an idea person.
+So, that's the deal on it.
+Whether how much you want to invest in the technique versus how much you wanna invest
+in finding a new technique.
+Cuz the old technique can be amazing if you're very good at it.
+But then it really comes down to the appreciation to how you do things.
+
+So once again, you can see here I'm just slowly stretching and forming the shape.
+Also, always delete your history but
+never delete your history off your regular characters.
+See,I just contradict myself, always delete your history but
+never delete it off your rig!
+Because once you rig The Riggings data is a piece of history.
+So now fill a hole.
+Now I just need to make sure they're not imbalanced by adding some lines here.
+You can always add to the color patches as well, later.
+So this is just to make things cleaner.
+Also, a lot of time modeling and the process of the art of selection.
+I mean, I can select each one of them individually, like this or
+I can look in from the side view and drag select.
+I will select all of them at once.
+See that just saved you like two seconds there.
+You don't really need to create a patch.
+You can just use this as the color palette.
+So now I just have a robot head.
+Gonna put it up here.
+The robot head is done.
+You got a robot.
+So now I have a robot with weird legs.
+Now I can rig it.
+Oh, I need one more shape actually.
+How do I create a little underwear our shape.
+I can just take that shape, Just take a random piece of geometry,
+and then mush it into, extrude it into another shape.
+There you go.
+
+Oh by the way I have not saved this file yet, which always save your file.
+That's a very dangerous act, if you don't save your file.
+At this point it's all become a rhythmic dance, to me.
+Great, that's a robot.
+I just need to freeze my transformation in the history, and that's done.
+Now all I need do is quickly rig it, so
+this is my universal rig, I use every single character with this rig,
+so I don't have to, every time I build a new rig for it.
+You were probably asking what do you do if the character has a very
+different proportion.
+What I do is I will model the character to mush it back into a generic
+universal proportion.
+Then after I finish the rig I will push the rig out to
+match the proportion I originally intended.
+It's called rigging sculpting.
+
+You can sculpt to rig.
+You can animate to sculpt.
+You can rig to animate.
+You can animate to rig.
+So all the discipline can be transferred in some way.
+So then I just dust out my, there you go.
+See this does not fit with the rig.
+Does at all.
+And just quick and dirty, eyeball it, see if it works and that works.
+So this is pretty good to me.
+And now I just need to stretch out an arm.
+This is the one I'm making into teapose.
+I don't even need to make teapose.
+If I don't want to make the arm be part of the body movement,
+I can just simply distribute all the weight data onto the body,
+so he just doesn't have the arm movement.
+Which is perfectly fine if your time card doesn't really need that movement.
+If you think well what ultimately the robot needs to do,
+if he doesn't need any upper arm movement, then you don't need to rig it.
+
+like I said,
+if I felt like I don't want to make a new animation for it,
+I just use a stock animation from my old times, and for my time card.
+So let's see, we'll do a classic time card dance.
+There you go. 
+So the dances you're using, are they hand animated?
+they are hand animated.
+But sometimes I record my mouse gesture.
+There is a script in Maya allow you to do that, which is pretty handy.
+You can time out your performance just with your hand gesture, and
+then you use that as a beat to hand animate it.
+I always go through hand animate.
+I always clean up all the raw datas.
+
+But sometimes better to hand animate, because if it's a rhythm based,
+you can animate it and you can just loop it forever.
+Versus if you keep recording it, it gets messy.
+Do the dance.
+Now let's put on some music.
+There you go.
+That's the time card, live.
+
+### Homework
+we're going to be studying and
+redesigning some characters and styles that you found inspiring.
+And we'll be trying to figure out how they work.
+To do that, I'd like you to find two characters from a game, or a show, or
+a movie that you like and try to redesign them to fit with a different game, or
+show, or movie that you like.
+
+For instance, you could try to take Mario and Luigi from Super Mario Brothers, but
+you could try to redesign them to fit into Grand Theft Auto.
+You could start out with Finn and Jake from Adventure Time and
+try fitting them into Pac-Man.
+It's important that you're two sources be as stylistically different as possible
+to make things a challenge.
+
+The challenge behind this exercise is that you'll need to take a look at your initial
+characters and
+find out what is it about them that makes them recognizable and unique.
+You'll also need to take a look at where they're ending up and
+how their designs could change to fit into this new environment.
+Now this will probably take some sketching and experimenting, so keep going and
+try to see what works.
+
