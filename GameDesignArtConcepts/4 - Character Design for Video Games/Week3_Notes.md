@@ -823,27 +823,3 @@ Do the dance.
 Now let's put on some music.
 There you go.
 That's the time card, live.
-
-### Homework
-we're going to be studying and
-redesigning some characters and styles that you found inspiring.
-And we'll be trying to figure out how they work.
-To do that, I'd like you to find two characters from a game, or a show, or
-a movie that you like and try to redesign them to fit with a different game, or
-show, or movie that you like.
-
-For instance, you could try to take Mario and Luigi from Super Mario Brothers, but
-you could try to redesign them to fit into Grand Theft Auto.
-You could start out with Finn and Jake from Adventure Time and
-try fitting them into Pac-Man.
-It's important that you're two sources be as stylistically different as possible
-to make things a challenge.
-
-The challenge behind this exercise is that you'll need to take a look at your initial
-characters and
-find out what is it about them that makes them recognizable and unique.
-You'll also need to take a look at where they're ending up and
-how their designs could change to fit into this new environment.
-Now this will probably take some sketching and experimenting, so keep going and
-try to see what works.
-
