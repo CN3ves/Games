@@ -11,7 +11,7 @@ California Institute of the Arts
   * [Introduction to Game Design](https://www.coursera.org/learn/game-design)
   * [Story and Narrative Development for Video Games](https://www.coursera.org/learn/video-game-story)
   * [World Design for Video Games](https://www.coursera.org/learn/video-game-world)
-  * [Character Design for Video Games](https://www.coursera.org/learn/game-character-design)
+  * [Character Design for Video Games](https://www.coursera.org/learn/game-character-design)(paid to submit)
   * [Game Design Document: Define the Art & Concepts](https://www.coursera.org/learn/game-design-document)
 
 ## Taught by
