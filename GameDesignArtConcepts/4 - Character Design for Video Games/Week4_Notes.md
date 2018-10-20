@@ -713,9 +713,7 @@ It's just not rendered, it's not labored over.
 [sheep scketches](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Small_Rough_Goat_02.jpg)
 
 ### Refining the Sheep, Part 1
-So, you've got the rough?
-Maybe you could explain a bit like where you are now in the process?
->> Yeah, I kind of have a little bit of a rough idea.
+I kind of have a little bit of a rough idea.
 I feel like I keep coming to certain patterns over and over again with this.
 And so, it's like, okay, I have to move on a little bit and start finding the design.
 It's a little bit still, for me, cloudy.
@@ -740,7 +738,7 @@ And the more you draw as you get older, the clearer, I think,
 the image in your head becomes of what you're about to draw.
 
 If there's a point where it gets crystal clear, it hasn't happened for me yet.
-I've been trying to do it a long [LAUGH], all the time, and
+I've been trying to do it a long, all the time, and
 it's still so much like jazz improv.
 When you're doing it, you're like,
 I kinda know what the basics of what is going on here.
@@ -751,25 +749,22 @@ And like I said, it's almost becoming more insect for me than a barn animal.
 But I will hopefully at some point,
 pull it together in rendering where you will just like go, oh yeah,
 now that's where it comes together and you can kind of see it a little bit more.
-
-Where it actually will look like a farm animal [LAUGH],
+Where it actually will look like a farm animal,
 not like a weird parasite of some sort.
 But you kinda have to go with
 the idea that you're seeing otherwise.
-
 You keep experimenting and trying different shapes.
 And then like I said, with designs nothing's ever perfect.
 So, you just end up going, this isn't it, this isn't it.
-Sometimes by failing too, I'm a big proponent of failure.
 
+Sometimes by failing too, I'm a big proponent of failure.
 Failure is like how you get oh, okay,
 that is how it was suppose to be the entire time.
 I had to fail three to five times.
 When I was younger, the woman who thought me design and
 she was always like oh, I draw everything 12 times.
-I was like, 12 times.
 I thought that you actually had to count too, so even if I got the design
-together in five, I would still go over it [LAUGH]
+together in five, I would still go over it
 until it was 12 because I was a very good student at first.
 The basis for design in general should be,
 these are the tool sets and
@@ -777,11 +772,9 @@ I'll figure out why they're the tool sets.
 I figured out the appeal one just from experimenting with the high contrast one.
 And also there's a logical end to design.
 That's a thing that people probably don't talk about enough which is that,
-
 If you learn to be a good designer, a lot of things end up just looking
 the same because there is a conclusion if you follow one set of tools.
-Oh, to it's logical end, you will always get the same kind of outcome to it.
-But, where's the pink pencil?
+to it's logical end, you will always get the same kind of outcome to it.
 Then when you keep getting the same kind of conclusions over and over again,
 then you kind of have to go, oh, I need to figure out, I need to break this.
 I need to put something else.
@@ -791,48 +784,36 @@ was that I was like well everything at that point in animation.
 Think all designs like Samurai Jack and
 very like two whistle plump and boon's tired and stuff and
 everyone figured out the good stuff at this point.
-You kind of need to go like what's the dumbest thing [LAUGH] to design and
+You kind of need to go like what's the dumbest thing to design and
 that's kind of where I started going with design.
 I was like what would be the dumbest thing I could do in this situation and
 not thinking what's the smartest thing you could do.
 That kind of opened the door to design for me where I started seeing stuff more.
 I'm seeing the challenge part of it, but at the same time,
 I don't want it to look furry.
-[LAUGH] >> [LAUGH]
->> There's a very scary closeness where
+
+There's a very scary closeness where
 you could end up just doing an animal that just looks like
 fucking Tiny Toons or something.
-[LAUGH] I don't know.
-[LAUGH] I didn't mean to curse.
-
 My actual fear isn't the time.
 You guys can take as long as you're willing to take.
 I know that you guys got other lives too, but.
 For me, I'm more about the problem, I'm like, how is this gonna get solved?
 I'm so focused on.
-[LAUGH] Like it's actually gonna get made.
-[LAUGH] That's how I approach everything.
-No, no, this has got to be figured out.
 What's the solution?
->> I think pushing the nose further from the eyes is-
->> Yeah, it's something in there.
 
 Yeah, maybe you should come sit down with me with a pencil,
 that's the way we should do this interview.
-[LAUGH] Just give me a second.
-I'm seeing it.
->> Yeah, okay.
 And you're drawing those lines to kind of measure things out?
->> Yeah, it's still totally going to change, and stuff like that.
+Yeah, it's still totally going to change, and stuff like that.
 But I do kind of try to balance it out.
 There's a shape that I did in the rough,
 where it's kind of an interesting geometric shape.
 But then you don't want things to get too geometric.
-You do want them to be able to be rendered, and figured out bur you kind of
+You do want them to be able to be rendered, and figured out but you kind of
 have to want some elements of play and design in there.
 Like I said, all design is kind of like the same, no matter what you're doing.
 So, the rendering part of it really doesn't matter if I was
-
 going to end up doing a brochure, I would approach it slightly differently but
 not as differently as people might expect.
 It's kind of just in the rendering part of it.
@@ -843,14 +824,13 @@ beautiful shapes, stuff like that.
 Wanna make sure you get that balance of like,
 okay these are the kind of shapes that can move.
 Also, like I said, I feel like I over do everything until I get to the end.
-And the editing process for me is so
+And the **editing process** for me is so
 much more important than even the anything beforehand.
 Lots of times I have this feeling when I'm designing of,
 why couldn't I get here faster?
 This took so long to get to this spot.
 Why couldn't I just do it naturally?
 Like I said, when I draw in a sketchbook I actually draw straight ahead in pen.
-
 And so that stuff,
 it's like a different part of my brain than the character part of it.
 I don't know why, it's a different process for me.
@@ -869,10 +849,10 @@ it's like frustration but at the same time when you get it,
 you're very, like you can feel it before it's finished.
 You know it.
 There's an excitement to it.
+
 When I was first starting design, I would sometimes get afraid during that time,
 I would be like, uh-oh, it's getting good, it's getting good.
 Don't mess it up.
-I had that fear all the time.
 Like don't do the thing that's going to ruin this.
 And I would sometimes, and that was always, it was a real threat,
 it wasn't a threat that it was like, oh, obviously it always worked out.
@@ -880,40 +860,32 @@ There's plenty of times where I had the design 75% done, and I'm like, this is
 great, don't mess it up, and I would mess it up, and I'd be like, oh, dang it.
 And then you just have to look at the time that you have left on something go like,
 do I have enough time to go back over it.
-[LAUGH] I always personally made more time for myself cuz I, like I said
+I always personally made more time for myself cuz I, like I said
 that's the thing I care the most about is the design element that it don't,
-
 Trying not to like get into the other.
-
 Everything else to voice that thing, the color, all of that stuff.
 It's interesting stuff to think about and to play with.
 But for me it's like, if it doesn't communicate the character for
 me, then I don't want to do it.
->> Where do you see the problem still with this design?
-What are you still trying to fix?
->> I guess I just feel like it's not a character yet still, I don't know, I
 
+I just feel like it's not a character yet still, I don't know, I
 feel like I'm seeing like it's just shapes right now.
 I'm not feeling a connection to it.
 I also feel like there needs to be some resizing going on.
 I'm enjoying the shapes that I'm picking up, but I'm not feeling anything yet
 of like a connection to the character or even the description,
 I guess is what you know that kind of wild man shape.
-I'm sort of embarrassed [LAUGH] about it right now.
+I'm sort of embarrassed about it right now.
 I'm just like, man I need this to come together.
 Yeah sorry, sometimes it takes awhile.
->> That's okay.
-
 One thing I was noticing is, his hair is very quaffed right now.
->> Oh, well that's just the framing part of it.
+Oh, well that's just the framing part of it.
 That part will change.
 That's just figuring out the perimeter.
 Again, I figure out where the edge is.
 In fact, I might even bring it in more.
->> You know what it is?
 I think the torso's starting to be a different size than the head.
->> Yeah, I'm finding it a little bit more.
-But, yeah.
+Yeah, I'm finding it a little bit more.
 I don't know, for me, like I said, so much of it unfortunately.
 I don't design in a way that, I'm sorry that
 it's not like that where it's like, oh okay.
@@ -921,9 +893,8 @@ Here's the 20 minute design and here's the thing.
 I have to match so many different styles in the things.
 The thing I'm working on now is so opposite of this too, so you have to
 go back to different the things and you're just thinking about different things.
-I don't know.
 For me, design is just like it's so not a formula and but a formula too?
-[LAUGH] It's just like there's ideas and things that are like, I don't know.
+It's just like there's ideas and things that are like, I don't know.
 And I'm such a crazy perfectionist in that way where I am looking for
 that ideal design, I think you have to approach it that way.
 I'll be thinking about this after you guys leave today,
@@ -933,8 +904,8 @@ How would I do this?
 Is there a better solution to it?
 I think it's the nature of design.
 You have to be that way.
-I used to always say how unfortunately,
 
+I used to always say how unfortunately,
 people who are creative, they can kind of be a little miserable sometimes.
 Because one of the things they do is they are constantly searching for
 ways to make things better.
@@ -946,6 +917,455 @@ oh, that sandwich could have been better.
 It could have been good.
 It could have done this.
 And it never stops.
-
  
-### 
+### Refining the Sheep, Part 2
+So what were you thinking with this,
+seems like you're trying a different approach with this character.
+You kind of, what was not working about the previous version?
+The shapes, like I said, not seeing the character in it yet.
+I'm not finding, the description you gave wasn't matching the drawing.
+So we're going back and looking at some of the other ones I had done.
+I was like, it was a little bit closer here and I got off the path, and
+I think it's just because I kept.
+Thinking about the shape more than I was thinking about the character.
+That can happen sometimes too.
+You're just so concerned with, oh,
+I should balance out the shape, but it loses all that personality.
+Yeah, that you need.
+And, like I said, that's the number one thing for me.
+Because if it doesn't
+resonate with me it's not going to resonate with anybody else.
+I'll be thinking a lot about this as I'm drawing it.
+which is like someone who looks at the drawing,
+will they be able to get a sense of everything you
+mention in the description without me uttering a word.
+That's the whole point of this stuff.
+
+No design should ever have to have someone sit beside it and tell its story.
+It should just say it pretty quickly just by looking at it.
+Someone should figure it out.
+Which means sometimes you go too cliche, so you go to,
+very obvious simple thick ideas.
+That can convey those things.
+But that's kind of a purpose of design.
+The brevity of communication.
+
+When I was first getting into design, they always said the same thing.
+Oh, well, it's a main character, it's not gonna be as interesting as the other ones.
+And you can go crazy on the incidentals, you can go crazy on the villans.
+And don't go crazy on the main character.
+And I think there's a, their argument is that it's a little bit of a,
+you don't want to scare people.
+You don't want it, functionality wise you don't want it to be something that's so
+specific and complicated that it doesn't function either.
+Cuz you basically have two main characters and
+do the majority of your acting.
+So you have to make sure they cover all varieties
+of movement.
+Sometimes when I'm doing design, I follow Maurice Noble
+technique which is that I don't look at reference when I'm drawing.
+I try not to have it at my desk.
+I try not to bring it up on Google, in general, or anything.
+I just kind of, you get an idea.
+You go okay, if this was my job to do this design.
+I think what I would end up doing is, I would spend two, three,
+four hours, maybe even more just looking up wrestlers.
+I would just be sitting there looking them up, getting an idea of
+this is where it's kind of heading towards now.
+Yeah, I would be looking for their shapes.
+There is a certain kind of shape vocabulary
+that comes with everything you do.
+And that's just like pigs and goats and all that stuff.
+Where you were saying, oh, why is it so round?
+You just start thinking of the pig's shapes and stuff.
+It would be weird if I built a pig on triangle.
+It would be interesting challenge, but It would be a,
+it wouldn't be its natural, the shapes that you think of.
+So anyway, I would be looking at the shapes that you think of when you look at
+a wrestler, like okay, these kind of haircuts or these kind of things.
+And then I would instantly put them away And not look at them.
+And draw what I remembered.
+And I wanna keep them around.
+And the reason I do that is because you just don't,
+one, you draw too tight when you have reference around.
+You draw too realistic when you have reference around.
+I think it's, you get more interesting stuff when you're just thinking about it.
+When you're trying to observe.
+But no one's a computer.
+You do need to like kind of re jog your memory.
+
+I caricature celebrities all the time now.
+I got obsessed with this book by this guy named
+Mike Peters who did Mother Goose and Grim, newspaper comic.
+And he said something really interesting.
+I read a lot of art books and stuff.
+This is kind of where it's at right now,
+I don't I should do any more passes of it unless you guys wanna stay until sun down.
+But I probably will do some when it gets cooler.
+But I'll talk a little bit more about drawing and stuff.
+
+This book was,
+it was all political cartoons, and he said, oh, I never did any life drawing.
+But for a cartoonist, caricature is life drawing.
+That is so true.
+It's like if you can caricature on the fly which I was always okay at.
+Like, that is version of life drawing.
+Is that's the design part where you're making choices on like.
+A shape can look like this, but
+you can get into the intricacies of this is where I broke it.
+That's the highest part of that arc.
+Now a caricaturist can go in and go like that, exaggerate it all the way up.
+Or they can go oh, I'm just gonna do it straight.
+You can have so much writing and
+like that is your caricature muscle that you stretch as you do it.
+So you can do things like that.
+But you can even caricature things that are not, like shower heads.
+I mean right now the show I'm working on.
+I'm like It's so different than other things I've worked on that I'm like saying
+not only going like coffee cups.
+Along with the main characters.
+And I'm hoping that I'll break the standard of
+the main character being the most boring.
+I feel like these main characters are pretty Unique looking in some ways.
+I'll show you some stuff off camera.
+But yeah I don't know you kind of just of you look at life but I don't know.
+I went to school for biochem and I took anatomy for artists.
+As I was doing that I sat things I was doing a lot of realistic drawings.
+And I met this guy at Dreamworks I met two people from Dreamworks.
+One was extremely nice to me and
+was everybody was telling me well you got to meet Cory.
+Like he's really good and I at that time thought I was really good.
+I'd already worked in Animation at that point.
+And he was so nice to me.
+I can never remember this guy.
+Anything he said.
+He was so nice and I don't remember anything.
+Then a other guy was like you're not good.
+This. I can't even tell if you're a cartoonist.
+This is like Just real life and he ridiculed me, and
+he was like, you know what's the problem with you?
+He said you will start working, and you think it's fine,
+and then you won't go home and practice.
+You'll never.
+He just absolutely was so
+mean, and it made me, it was like bad parent or something.
+Every day I got home from work, I practiced more And
+I have a pretty strict ritual that I try to keep up with.
+Which is I would do an hour in the morning of practice,
+where I duplicate someone else's work, and then an hour at night.
+And you can learn really fast to be analytical.
+And that's part of design is how much you analyze.
+Like you can look at someone's work and you can go like, wow.
+Cool. It's so great.
+But the part of design is going like, why?
+Why does this work?
+Even if you think somethings ugly.
+Knowing why it's ugly is just as important.
+You know?
+Not just going, oh it's ugly.
+I don't care about that.
+It's like knowing the bare bones And so you can theorize,
+you can look at it and go well that's ugly cuz they used white lavender.
+But it's only a theory until you sit down with a white lavender marker and
+go well what if it was blue?
+Does it make it better?
+And that's so much of design is like going through those.
+Spectrum, and then you go, well, like this right now,
+I know it's not a good design at this point.
+I know it needs some things worked on.
+I will be thinking about what but, I There's things I'm already
+thinking about, like this balance of this shape is too short for this head.
+I'm losing things.
+If I was on the Cintiq right now,which I might do.
+I might take this and scan it, put it on the Cintiq and
+then actually start stretching it.
+So I like to design like that sometimes, where I will use the Cintiq for
+proportions really fast, because you can do that stuff really fast.
+But you'll start messing with it, you'll start finding that balance, and then
+when it starts feeling right, you start measuring and you start going, "OK, well
+why?" It's because I changed it to three And instead of two.
+And then you go, well what happens if I do three and a third?
+Then you can start messing with the mathematics of it.
+You kind of can't do it while you're doing it.
+You can kinda measure out, but it's so rough.
+
+But the finalization of the design is where you kind of are really That
+kind of measure and there's a lot of other techniques I will be doing to show.
+I'll talk about some of the things I'll be changing.
+I want people to look right here and I know that they're not right now.
+There's things I can do.
+When I go over it, I can actually make sure all of these curves here
+An arm are going and pointing back up towards the head.
+I can make sure everything.
+Right now that one's going here, but if I go and I direct it back up here, and
+I go and direct this one up here I can start controlling the eye, so
+it can start looking in certain areas that I want it to.
+What I'm doing, I'm just kind of feeling it out.
+I'm not in love with this design, I'm still trying to figure it out.
+I'm not gonna get it right away but when I start getting it,
+it'll start coming together sort of fast.
+It's kind of like the last parts of a chess game.
+
+You know, so much of it is dependent on what is being played against you.
+At often told strength point.
+Then it's the end game, and then it's just the movements.
+There's only so much they can move, and there's only so much you can move.
+So then you can start calculating it a little bit more as it finalizes.
+You start going like okay, yeah okay.
+If this is my boundary on this then I can start pushing all this.
+Okay, I got to bring this in.
+I got to clear up this space like right away,
+even though I want him to have kinky hair I'm thinking this is getting in the way.
+Confusing my design are these two arm shapes are too close to these eye shapes.
+You start seeing that kind of stuff the more you do it.
+So it's like even though it's on camera and
+I am making all these mistakes, you don't stop thinking about this.
+You know, the design you're gonna sit there and you're gonna live with
+It's almost like my more abstract ones were kind of like 
+But as I was going through it some more I was losing track of those.
+So I will probably be going back and pushing things in that direction.
+
+And before it exists, everything's perfect >> And then one it's there,
+it's easy to see when something's working or it's not working.
+Oh yeah, I mean I like basketball a lot.
+And one of the things that people talk a lot about right now is for
+last season Oklahoma City was.
+Injured and so
+it's all about this theoretical game they could have played if they weren't injured.
+And that's the same with a design.
+All drawings are great until they're drawn and
+then that's when the problems sort of reveals themselves.
+Everything theoretical is awesome.
+
+[goat](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Small_Rough_Goat_04.jpg)
+[goat](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Small_Goat_05.jpg)
+
+### Working in Animation
+That no one wants to hire someone who just draws very beautiful.
+Those people stay working, posting their artwork on the internet.
+But if it can't serve a purpose, then you're not gonna get hired.
+It's, everybody who gets a job, I always explain it's because they looked.
+When you do storyboards, the people who get hired for
+storyboards, are people who can compose within a box.
+If you can't compose within the box, it doesn't matter how good your action is, or
+how good, you know, you are rendering things in forced perspective.
+None of that matters, because if you can't compose within the framing of a shot,
+then nobody is interested in hiring you.
+And the same with design, if you can draw a lot of like weird concepts,
+and you have a great imagination, it's going to help you become a great designer.
+But it's not going to be the reason you get hired as a designer.
+The reason you get hired as a designer is that you're functional.
+That your work can be translated to be handed off to somebody else, and
+that's whether you're working in traditional animation or video game stuff.
+It has, a designer's work is always passed off to somebody else.
+
+I guess anybody can learn from this advice.
+But one of the first things I do when I go apply for a job, I ask, see if there's
+anybody else around who I might know, or might be able to even look at their work.
+And then I kind of figure out what's this all about.
+The reason I have so many books in my house,
+is because when you work as a designer somebody will say,
+I like Ronald Searle, or I like Mike Mignola.
+
+The basic artist, the artist I think who doesn't get the work, goes, oh, okay.
+I'll copy Mike Mineola.
+The artist who gets the job doesn't try to copy Mike Mineola.
+They copy Hugo Pratt, John Curry.
+A little bit of Mobius, maybe you look at the layouts of.
+All the stuff that Mike Menola is looking at,
+if you do that, you kinda get a better idea
+about where the underlying part of the design.
+Cuz so much of design too is,
+unfortunately having to match a lot of different styles.
+And a lot of design too, is you're gonna be working for
+people who are pretty terrible communicators, a lot of directors.
+Don't know what they want, they just know what they don't want.
+So they'll make you draw a lot of stuff.
+My bigger frustrations in design,
+have always been having to dumb something down, or
+to change something that I have such a clear vision on.
+I see the character, I know it's the right choice, but you do have to do it.
+Always.
+Cuz unless you're designing for yourself, you know,
+you're designing for a client, always and the client has the say.
+which is they want to be part of the creative process too.
+And a designer's a weird thing.
+It's such a specific job to have,
+but at the same time it's suppose to be a collaboration.
+But it feels so isolating in lots of ways.
+Where you're just like, and like you're alone all the time.
+You're thinking about.
+You know, you're just, you've lived with it and
+then you have to share it afterwards.
+And that part of it, it's like, it goes against the collaboration,
+because you can't sit down and collaborate with the design.
+It just almost never works that way.
+You can sometimes get info before you start a design with a client,
+and that helps for sure to figure out
+the perimeters of where you can go with the stuff.
+But, for the most part it feels like you're alone,
+and then all of a sudden you have to collaborate.
+I'm editing part of it.
+The finale, I think.
+
+Like, I don't believe anybody is made for any type of job.
+I believe you can learn it.
+There's skill sets.
+People will tell you, like, you either have it or you don't, but it's not true.
+That you have a certain skill set as an individual that will make it like
+your designs, very unique and very interesting, if you embrace it.
+But, everybody can learn this stuff.
+But then you're like, the part of it is like,
+that's crazy is that you can do this forever.
+And you're still like, why am I still learning something?
+At this age it can be so frustrating sometimes, where you're just like man,
+I cannot believe like, how much more I still have to learn in this field.
+I think about it all the time still, where I'm like things that I'm
+thinking about right now are very,
+like I was mentioning, comic strips stuff with.
+I feel like right now in design, everything's so
+Japanese influenced, that I think wait, you
+just look at trends that are happening, and you go, oh, that's gonna end.
+It's gonna end and people are going to be caught off guard.
+What's the next thing?
+And I get obsessed with trying to figure out what's that next thing.
+And I mean I dont' wanna unveil it on tape what I think next things are,
+cuz I'm still in the process of leaning it.
+But it's so much of design too,
+it's like it's anticipating what could be happening next.
+So, like a lot the stuff I'm having to constantly teach myself new tricks.
+So,
+I'm looking at a lot of stuff that is in opposition of what's currently happening.
+And I'm practicing that stuff in my off time, to have a job in the future.
+I've been fortunate enough to be a designer for,
+since 2003, so over a decade at this point.
+And it's very sad.
+Because a lot of people don't get to do that.
+They come in and they have a certain skill set.
+But they don't adapt to the current situation.
+And I'm always telling my friends, don't get caught up in this thing.
+Don't become so great at just doing this one type of design, and then
+you know, when it goes away, all of a sudden now you go away with it.
+You have to learn the principles.
+You have to be adapting all the time.
+It's always so much work and so much challenge.
+But I think the people who, If there's anyone who's meant to be a designer,
+it's the people who really like those kind of challenges.
+It's the people who really enjoy getting up every day and going like, oh.
+Like, how do I solve this problem today?
+
+You know, I always also tell people that to be an artist you kinda have to believe
+that you're better than, like, 90% of the people who do it already.
+But that you'll never be as good as the ten percent that you look up to.
+It's kind of like that's the mentality you live with as a designer.
+You're sort of like, oh I'm good at doing this.
+Cuz if you didn't think you were good at doing it,
+you couldn't show up every day for a job doing it.
+But you also have to like think you suck enough to make sure
+you keep staying hungry and keep practicing.
+
+### Robertryan Studio Follow-Up
+After our visit, Cory wanted to put some finishing touches on his designs and try a couple more approaches. So a few days later I stopped by and checked out how his designs turned out. The video quality isn't so great here, as I filmed it with my handheld camera, but I just couldn't pass up the opportunity to see how Cory's designs evolved after a second pass.
+
+
+So when I stumbled upon
+an idea of designing them both at the same time, and when I did that,
+and putting them into sort of the beginning of a fight pose,
+I started feeling the character come together at that point.
+And it started becoming more of what the description you had asked for.
+And it was less about shape juggling, and more about,
+do I believe that this is a character that would work in a video game?
+
+And so I started messing around with it.
+And I felt like once I got to this point, which was a scan of these two,
+into the computer messing with the proportions, and then also turning
+them into the fight pose, starting coming together relatively fast.
+And then the passes after this are just really quick.
+And so, [this is kind of a rough idea](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Small_Goat_Pig_05.jpg) and
+I started feeling this is kind of like a brawler, this feels like a brawler,
+this feels like a mysterious ultimate warrior type.
+So I then went over and I
+did the [pig](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4 - Character Design for Video Games/Small_Rough_Pig_06.jpg) and I started messing around, I had drawn a top hat in the previous one.
+And I liked that, but I think I just put them as one and I liked that,
+but I think I just them in regular wrestling outfit and I was like,
+well that's not really the description you gave me.
+And I started thinking what would someone whose trying
+to be sophisticated, think is sophisticated?
+And so I have a little money belt buckle thing for
+his strap on his overalls.
+And white gloves and pinstripe overalls,
+it's like a mix of two worlds, and once I hit that I was like,
+this is just clean up at this point.
+And I think it was exactly because I didn't confuse it, and
+design in a bubble by designing them separate.
+By putting them both together, it started coming together in my mind, the scene,
+and it just brought it into context and it made it more interesting.
+There's other ideas I had but they were just complications too of I thought,
+maybe I could put a diamond ring through his nose hole and stuff.
+But at a certain point you're like, I want it to read like a pig still, and
+it's more almost like the little nuances of getting it, and so
+it's a little simple thing, just putting the dollar sign on it.
+That communicates enough, the white gloves communicate, these are iconic ideas
+about what it is like to be wealthy, but he still feels dirty.
+The ultimate warrior [goat](https://github.com/CN3ves/Games/edit/master/GameDesignArtConcepts/4 - Character Design for Video Games/Week4_Notes.md) thing, I started realizing,
+okay well the reference you gave me was kinda like this frizzy hair thing.
+And when I realized, I'm like, these eyes are making him in the earlier past,
+let me go back to him.
+In the earlier past he was just feeling like an alien and
+like I said, when I started thinking about ultimate warrior, I was like,
+he just feels completely mysterious, and it's cuz you really don't see his eyes.
+His eyes are like little tiny slits with this tribal makeup.
+So I just was like, what if I get rid of these eyes?
+And when I did that, I was like, this is where it should have been a long time ago.
+The eyes weren't even important for
+him to convey that kind of a powerful wrestler and
+so I've learned from other artist better than me,
+it's either in or it's out.
+And that's high contrast in design and
+if the eyes aren't serving a purpose, you can get rid of that stuff.
+So I just covered him with hair, and tried to make that frizzy and then I put
+a little bit of again, was thinking, what would make him feel like a warrior?
+Well, these horns would make him feel a little bit, and that's kind of goatish.
+And then I was like, well, and a little shoulder pad, and
+little knee pads, and stuff like that, just tiny things.
+And when I came across those two I was like, well,
+I feel like this would be something that I would do for a first pass.
+This might not be a final pass kind of thing,
+I would still want feedback or to talk it over with the director.
+And if this was a job I would probably turn in multiple versions.
+I feel like [this](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/Small_Final.jpg), although imperfect in some ways,
+is more of a character and that's the thing I'm always after is to make sure,
+does it feel like it's a character?
+And I don't like talking in abstracts like that and the thing
+that makes it feel like a character is meet the expectations of the description,
+but then also can you envision more coming after it?
+And that's I think the real description of a character,
+is could I hand this off to somebody and could they then go further with it?
+That's a character.
+
+Cuz if it hits a roadblock at that point, where you just give someone a design,
+and then they're like, well, I'm just gonna follow this.
+It's not really the job of a character designer, the job of a character designer
+is actually to inspire everybody else who comes after you.
+I want someone to take whatever I do, and
+to feel excited about pushing it forward and to doing more with it.
+Cuz it's already hard for me, I can't imagine what it's like for
+animators and everybody else who has to come after me.
+If it doesn't feel inspired to a certain degree, and
+
+there's a lot of other things that I'm doing, I'm drawing eyes.
+Things I talked about last time, I'm doing little cheats,
+which is rather then really render out the mass on something,
+I'm doing the the pinstripes defining the mass.
+I'm turning things back towards the eye,
+all my little angles are kinda going more towards this area right here,
+and I'm drawing attention here by framing it.
+There's a little technical designs and stuff like that, but
+you gotta be willing to throw all of that away if it doesn't feel like a character,
+and I feel like my first passes were just kind of getting design-y for
+design sake and that's not what I like and that's probably why I was like,
+it was just so frustrating.
+So when I kept going back over and back over I think it was just
+a matter of me having to sit down and go like, oh if I put it into a context of
+a scene it really then becomes a character and I can understand it better.
+And that just helped the design flow so much more, so.
