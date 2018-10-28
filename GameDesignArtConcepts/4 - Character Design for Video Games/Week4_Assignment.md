@@ -60,3 +60,16 @@ Three designs for a volcanic guardian:
   * Right: A human sorcerer-based design
   * Middle: A humanoid earth-based design
   * Left: A  monstrous volcano-based design
+
+### Comments
+What is, in your opinion, the strongest or most exciting thing about their character designs?
+
+  1. The description of the mental process and ideas behind the design, and so the narrative choices that made the drawings so different in style and characteristics. Apart from the style, which is pretty naive, I really liked the approaches that defined each of the characters. You have a good imagination and a fine sense of the narrative, my compliments!
+  2. Great work. Very indepth overview and analysis.
+  3. excellent
+  
+What is one thing the student can do to improve their designs? Do you have a suggestion to make the designs more interesting or exciting? 
+
+  1. Just add some quality to the design man!
+  2. I understand it is not an active volcano, but I would imagine volcanic creatures more made of magma. Looks cooler. :)
+  3. you had a great work
