@@ -36,3 +36,13 @@ In summary:
 [concept](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/concept_week2.jpg)
 title: Enemies
 Caption: On the left, I made a sketch of a more corporeal (Manananggal inspired...) creature while on the right is a more ghostly "in-between" worlds creature
+
+
+### Comments
+What is, in your opinion, the strongest or most exciting thing about their character design?
+
+ * Written description is strongest part of this work.
+ 
+What is one thing the student can do to improve their designs? Do you have a suggestion to make the design more interesting or exciting? Or can you suggest some ways your peer can adjust the design to articulate their character more clearly?
+
+ * I will be very happy to make a mistake, but the pictorial part of the work looks like it was done “on the knee” in 2 minutes. The written part gives a good idea about the characters. I know that here is not required to be able to draw. I myself draw disgustingly, but try to add a little more detail next time. Let it be separately, scattered pieces and not a solid figure.
