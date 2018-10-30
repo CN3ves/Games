@@ -38,3 +38,14 @@ title: The Force, they invade
 caption: This image shows a game of space invaders where the star wars character of Darth Vader (black) functions as the enemy (invading) aliens while the character of Yoda (green) functions as the defensive laser canon. 
 
 [image](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/week3_concept.png)
+
+## Comments
+What is, in your opinion, the strongest or most exciting thing about their character designs?
+  1. great
+  2. it's awesome!
+  3. This is wonderful :) I love this!
+  
+What is one thing the student can do to improve their designs? Do you have a suggestion to make the designs more interesting or exciting? Or can you suggest some ways your peer can adjust the design to make the designs fit their target environment more clearly?
+  1. i cant say anything
+  2. i have nothing to add! all is great!
+  3. You did a wonderful job distilling the characters down. They are still readable even at their small size.
