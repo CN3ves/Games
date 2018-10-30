@@ -6,9 +6,9 @@ You can draw them with pencil and paper, or digitally paint them, or make a coll
 
 In each variation, try to work with one of the concepts we’ve covered in this week's lesson:
 
-    Density
-    Mood and Story
-    Proportion
+  * Density
+  * Mood and Story
+  * Proportion
 
 To accompany your drawings, please also include a short description of your character: name, background, motivations and story—whatever information you think would be useful to help support your design choices. Also, please explain the different approaches you're attempting in each drawing - for instance, "In the third drawing, I'm adjusting my proportions to try to make my character less cute." or "In the second drawing, I'm trying to add some elements to my design to help communicate a little more of my character's story."
 
