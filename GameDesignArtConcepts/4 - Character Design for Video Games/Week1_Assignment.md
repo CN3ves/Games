@@ -24,11 +24,13 @@ My character is a conceptual character and does not have a name at the moment. H
 [Character design](https://github.com/CN3ves/Games/blob/master/GameDesignArtConcepts/4%20-%20Character%20Design%20for%20Video%20Games/week1_concept.pdf)
 
 title: Vampire hunter
-caption: 
-    First page: all three designs
-    Second page: First design (head only)
-    Third page: Second design (low density)
-    Fourth page: Third design (higher density)
+
+caption:
+
+  First page: all three designs
+  Second page: First design (head only)
+  Third page: Second design (low density)
+  Fourth page: Third design (higher density)
 
 
 ### Describe the different approaches you're attempting in each of your three designs
